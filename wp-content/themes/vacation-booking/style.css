@@ -549,3 +549,42 @@ blockquote.wp-block-quote.is-layout-flow.wp-block-quote-is-layout-flow {
 .recent-btn a:hover{
   background: #000;
 }
+
+/* ============== Tour Booking Manager - Vietnamese Language Fixes ============== */
+/* Fix text overlap in tour cards */
+.filter_item .bg_image_area .fdColumn.absolute_item {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 5px;
+}
+
+.filter_item .bg_image_area .fdColumn.absolute_item .ttbm_list_info {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  margin-bottom: 3px;
+}
+
+/* Ensure proper spacing between price, duration, and expire message */
+.filter_item .bg_image_area .absolute_item > * {
+  margin-bottom: 5px;
+}
+
+/* Fix for flexEqual container within bg_image_area */
+.filter_item .bg_image_area .flexEqual {
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.filter_item .bg_image_area .flexEqual .ttbm_list_info {
+  min-width: auto;
+  flex: 0 1 auto;
+}
+
+/* Improve tour list item layout for Vietnamese text */
+.filter_item.grid_4 .ttbm_list_details,
+.filter_item.grid_3 .ttbm_list_details {
+  min-height: 180px;
+}
+}
