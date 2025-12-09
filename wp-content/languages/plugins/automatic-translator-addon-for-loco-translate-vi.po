@@ -1,0 +1,375 @@
+# Translation of Plugins - LocoAI &#8211; Auto Translate For Loco Translate - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - LocoAI &#8211; Auto Translate For Loco Translate - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-04-16 03:25:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - LocoAI &#8211; Auto Translate For Loco Translate - Stable (latest release)\n"
+
+#: automatic-translator-addon-for-loco-translate.php:967
+msgid "Dashboard navigation"
+msgstr "Điều hướng bảng điều khiển"
+
+#: automatic-translator-addon-for-loco-translate.php:951
+msgid "Auto translate plugins & themes."
+msgstr "Tự động dịch các plugin & theme."
+
+#: automatic-translator-addon-for-loco-translate.php:945
+msgid "Loco Translate Logo"
+msgstr "Biểu trưng Loco Translate"
+
+#: automatic-translator-addon-for-loco-translate.php:935
+msgid "contact"
+msgstr "liên hệ"
+
+#: automatic-translator-addon-for-loco-translate.php:930
+msgid "document"
+msgstr "tài liệu"
+
+#: automatic-translator-addon-for-loco-translate.php:925
+msgid "Unlock Pro Features"
+msgstr "Mở khóa các tính năng Pro"
+
+#: automatic-translator-addon-for-loco-translate.php:924
+msgid "premium"
+msgstr "cao cấp"
+
+#: automatic-translator-addon-for-loco-translate.php:911
+msgid "Free vs Pro"
+msgstr "Miễn phí so với Pro"
+
+#: automatic-translator-addon-for-loco-translate.php:910
+msgid "License"
+msgstr "Giấy phép"
+
+#: automatic-translator-addon-for-loco-translate.php:909
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: automatic-translator-addon-for-loco-translate.php:907
+msgid "Dashboard"
+msgstr "Bảng điều khiển"
+
+#: admin/atlt-dashboard/views/sidebar.php:169
+msgid "K+"
+msgstr "K+"
+
+#: admin/atlt-dashboard/views/sidebar.php:168
+msgid "M+"
+msgstr "M+"
+
+#: admin/atlt-dashboard/views/sidebar.php:167
+msgid "B+"
+msgstr "B+"
+
+#: admin/atlt-dashboard/views/sidebar.php:135
+msgid "AI Translation for TranslatePress (Pro)"
+msgstr "Dịch thuật AI cho TranslatePress (Pro)"
+
+#: admin/atlt-dashboard/views/sidebar.php:134
+msgid "AI Translation for TranslatePress"
+msgstr "Dịch thuật AI cho TranslatePress"
+
+#: admin/atlt-dashboard/views/sidebar.php:104
+msgid "%d hours %d min"
+msgstr "%d giờ %d phút"
+
+#: admin/atlt-dashboard/views/sidebar.php:100
+msgid "%d min %d sec"
+msgstr "%d phút %d giây"
+
+#: admin/atlt-dashboard/views/sidebar.php:96
+msgid "%d sec"
+msgstr "%d giây"
+
+#: admin/atlt-dashboard/views/sidebar.php:95
+msgid "0"
+msgstr ""
+
+#: admin/atlt-dashboard/views/sidebar.php:88
+msgid "Submit a Review →"
+msgstr "Gửi đánh giá →"
+
+#: admin/atlt-dashboard/views/sidebar.php:87
+msgid "We'd love your feedback! Hope this addon made auto-translations easier for you."
+msgstr "Chúng tôi rất mong nhận được phản hồi của bạn! Hy vọng tiện ích này giúp bạn tự động dịch dễ dàng hơn."
+
+#: admin/atlt-dashboard/views/sidebar.php:86
+msgid "Rate Us ⭐⭐⭐⭐⭐"
+msgstr "Đánh giá chúng tôi ⭐⭐⭐⭐⭐"
+
+#: admin/atlt-dashboard/views/sidebar.php:65
+msgid "TranslatePress Addon"
+msgstr "Tiện ích TranslatePress"
+
+#: admin/atlt-dashboard/views/sidebar.php:57
+msgid "TranslatePress addon to translate webpages."
+msgstr "Tiện ích TranslatePress để dịch các trang web."
+
+#: admin/atlt-dashboard/views/sidebar.php:51
+msgid "Polylang Addon"
+msgstr "Tiện ích Polylang"
+
+#: admin/atlt-dashboard/views/sidebar.php:47
+#: admin/atlt-dashboard/views/sidebar.php:61
+#: admin/atlt-dashboard/views/sidebar.php:76
+msgid "Install"
+msgstr "Cài đặt"
+
+#: admin/atlt-dashboard/views/sidebar.php:45
+#: admin/atlt-dashboard/views/sidebar.php:59
+#: admin/atlt-dashboard/views/sidebar.php:74
+msgid "Installed"
+msgstr "Đã cài đặt"
+
+#: admin/atlt-dashboard/views/sidebar.php:43
+msgid "Polylang addon to translate webpages."
+msgstr "Tiện ích Polylang để dịch các trang web."
+
+#: admin/atlt-dashboard/views/sidebar.php:39
+msgid "Automatically Translate Full Webpage"
+msgstr "Tự động dịch toàn bộ trang web"
+
+#: admin/atlt-dashboard/views/sidebar.php:34
+msgid "Time Taken"
+msgstr "Thời gian thực hiện"
+
+#: admin/atlt-dashboard/views/sidebar.php:33
+msgid "Total Plugins / Themes"
+msgstr "Tổng số Plugin / Theme"
+
+#: admin/atlt-dashboard/views/sidebar.php:32
+msgid "Total Characters"
+msgstr "Tổng số ký tự"
+
+#: admin/atlt-dashboard/views/sidebar.php:29
+msgid "Total Strings Translated!"
+msgstr "Tổng số chuỗi đã được dịch!"
+
+#: admin/atlt-dashboard/views/sidebar.php:4
+msgid "Auto Translation status"
+msgstr "Trạng thái tự động dịch"
+
+#: admin/atlt-dashboard/views/settings.php:131
+msgid "Save"
+msgstr "Lưu"
+
+#: admin/atlt-dashboard/views/settings.php:96
+msgid "Click Here"
+msgstr "Nhấp vào đây"
+
+#: admin/atlt-dashboard/views/settings.php:95
+msgid "%s to See How to Generate %s API Key"
+msgstr "%s để xem cách tạo khóa API %s"
+
+#: admin/atlt-dashboard/views/settings.php:84
+msgid "Add %s API key"
+msgstr "Thêm khóa API %s"
+
+#: admin/atlt-dashboard/views/license.php:25
+msgid "As a valued user, you automatically receive an exclusive discount on the Annual License and an even greater discount on the POPULAR Lifetime License at checkout!"
+msgstr "Là một người dùng được đánh giá cao, bạn sẽ tự động nhận được giảm giá độc quyền cho Giấy phép Hàng năm và giảm giá lớn hơn nữa cho Giấy phép Trọn đời PHỔ BIẾN khi thanh toán!"
+
+#: admin/atlt-dashboard/views/license.php:23
+msgid "upgrading to Pro"
+msgstr "nâng cấp lên Pro"
+
+#: admin/atlt-dashboard/views/license.php:22
+msgid "To unlock more features, consider"
+msgstr "Để mở khóa thêm tính năng, hãy xem xét"
+
+#: admin/atlt-dashboard/views/license.php:14
+msgid "Your license key provides access to pro version updates and support."
+msgstr "Khóa giấy phép của bạn cung cấp quyền truy cập vào các bản cập nhật và hỗ trợ phiên bản pro."
+
+#: admin/atlt-dashboard/views/license.php:5
+msgid "License Key"
+msgstr "Khóa giấy phép"
+
+#: admin/atlt-dashboard/views/free-vs-pro.php:22
+msgid "Pro"
+msgstr "Pro"
+
+#: admin/atlt-dashboard/views/free-vs-pro.php:21
+#: admin/atlt-dashboard/views/license.php:7
+msgid "Free"
+msgstr "Miễn phí"
+
+#: admin/atlt-dashboard/views/free-vs-pro.php:20
+msgid "Dynamic Content"
+msgstr "Nội dung động"
+
+#: admin/atlt-dashboard/views/free-vs-pro.php:15
+msgid "Compare the Free and Pro versions to choose the best option for your translation needs."
+msgstr "So sánh phiên bản Miễn phí và Pro để chọn tùy chọn tốt nhất cho nhu cầu dịch thuật của bạn."
+
+#: admin/atlt-dashboard/views/free-vs-pro.php:5
+msgid "Free VS Pro"
+msgstr "Miễn phí so với Pro"
+
+#: admin/atlt-dashboard/views/footer.php:20
+msgid "YouTube Channel"
+msgstr "Kênh YouTube"
+
+#: admin/atlt-dashboard/views/footer.php:19
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/atlt-dashboard/views/footer.php:18
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: admin/atlt-dashboard/views/footer.php:17
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/atlt-dashboard/views/dashboard.php:62
+#: admin/atlt-dashboard/views/footer.php:13
+msgid "Docs"
+msgstr "Tài liệu"
+
+#: admin/atlt-dashboard/views/footer.php:12
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: admin/atlt-dashboard/views/footer.php:8
+msgid "Cool Plugins Logo"
+msgstr "Cool Plugins Logo"
+
+#: admin/atlt-dashboard/views/footer.php:5
+msgid "Made with ❤️ by"
+msgstr "Được tạo với ❤️ bởi"
+
+#: admin/atlt-dashboard/views/dashboard.php:33
+msgid "Translation Providers"
+msgstr "Nhà cung cấp dịch thuật"
+
+#: admin/atlt-dashboard/views/dashboard.php:18
+msgid "Read Plugin Docs"
+msgstr "Đọc tài liệu Plugin"
+
+#: admin/atlt-dashboard/views/dashboard.php:16
+msgid "Translate Themes"
+msgstr "Dịch Theme"
+
+#: admin/atlt-dashboard/views/dashboard.php:15
+msgid "Translate Plugins"
+msgstr "Dịch Plugin"
+
+#: admin/atlt-dashboard/views/ai-translations.php:24
+msgid "Utilize Chrome's built-in AI for seamless translation experience."
+msgstr "Sử dụng AI tích hợp sẵn của Chrome để có trải nghiệm dịch thuật liền mạch."
+
+#: admin/atlt-dashboard/views/ai-translations.php:23
+msgid "Chrome Built-in AI"
+msgstr "AI tích hợp sẵn của Chrome"
+
+#: admin/atlt-dashboard/views/ai-translations.php:32
+msgid "Use OpenAI's ChatGPT for fast, natural, accurate, and fluent translations."
+msgstr "Sử dụng ChatGPT của OpenAI để có bản dịch nhanh chóng, tự nhiên, chính xác và trôi chảy."
+
+#: admin/atlt-dashboard/views/ai-translations.php:31
+msgid "ChatGPT Translations"
+msgstr "Bản dịch ChatGPT"
+
+#: admin/atlt-dashboard/views/ai-translations.php:15
+msgid "Experience the power of AI for faster, more accurate translations. Choose from multiple AI providers to translate your content efficiently."
+msgstr "Trải nghiệm sức mạnh của AI để có bản dịch nhanh hơn, chính xác hơn. Chọn từ nhiều nhà cung cấp AI để dịch nội dung của bạn hiệu quả."
+
+#: admin/atlt-dashboard/views/ai-translations.php:9
+#: admin/atlt-dashboard/views/ai-translations.php:10
+#: admin/atlt-dashboard/views/free-vs-pro.php:9
+#: admin/atlt-dashboard/views/free-vs-pro.php:10
+#: admin/atlt-dashboard/views/license.php:9
+#: admin/atlt-dashboard/views/license.php:10
+#: admin/atlt-dashboard/views/settings.php:51
+#: admin/atlt-dashboard/views/settings.php:52
+msgid "Upgrade Now"
+msgstr "Nâng cấp ngay"
+
+#: admin/atlt-dashboard/views/ai-translations.php:7
+#: admin/atlt-dashboard/views/free-vs-pro.php:7
+#: admin/atlt-dashboard/views/settings.php:49
+msgid "Inactive"
+msgstr "Không hoạt động"
+
+#: admin/atlt-dashboard/views/ai-translations.php:5
+#: automatic-translator-addon-for-loco-translate.php:908
+msgid "AI Translations"
+msgstr "Bản dịch AI"
+
+#: admin/cpt_dashboard/cpt_dashboard.php:270
+#: admin/cpt_dashboard/cpt_dashboard.php:278
+msgid "Already Reviewed"
+msgstr "Đã được đánh giá"
+
+#: admin/cpt_dashboard/cpt_dashboard.php:270
+#: admin/cpt_dashboard/cpt_dashboard.php:278
+msgid "Not Interested"
+msgstr "Không quan tâm"
+
+#: includes/Feedback/class.feedback-form.php:92
+msgid "If you have a moment, please share why you are deactivating this plugin."
+msgstr "Nếu bạn có một chút thời gian, xin vui lòng chia sẻ lý do tại sao bạn đang vô hiệu hóa plugin này."
+
+#: includes/Feedback/class.feedback-form.php:79
+msgid "Quick Feedback"
+msgstr "Đánh giá nhanh"
+
+#: includes/Feedback/class.feedback-form.php:70
+#: includes/Feedback/class.feedback-form.php:148
+msgid "Please share the reason"
+msgstr "Hãy chia sẻ lý do"
+
+#: includes/Feedback/class.feedback-form.php:69
+#: includes/Feedback/class.feedback-form.php:147
+msgid "Other"
+msgstr "Khác"
+
+#: includes/Feedback/class.feedback-form.php:65
+#: includes/Feedback/class.feedback-form.php:143
+msgid "It's a temporary deactivation"
+msgstr "Tạm thời hủy kích hoạt"
+
+#: includes/Feedback/class.feedback-form.php:61
+#: includes/Feedback/class.feedback-form.php:139
+msgid "The plugin is not working"
+msgstr "Plugin đang không hoạt động"
+
+#: includes/Feedback/class.feedback-form.php:58
+#: includes/Feedback/class.feedback-form.php:136
+msgid "Please share which plugin"
+msgstr "Vui lòng chia sẻ plugin nào"
+
+#: includes/Feedback/class.feedback-form.php:57
+#: includes/Feedback/class.feedback-form.php:135
+msgid "I found a better plugin"
+msgstr "Tôi đã tìm thấy plugin khác phù hợp hơn"
+
+#: includes/Feedback/class.feedback-form.php:53
+#: includes/Feedback/class.feedback-form.php:131
+msgid "The plugin didn't work as expected"
+msgstr "Plugin hoạt động không như mong đợi"
+
+#: automatic-translator-addon-for-loco-translate.php:1045
+#: automatic-translator-addon-for-loco-translate.php:1053
+msgid "Cheatin&#8217; huh?"
+msgstr "Gian hận hả?"
+
+#: automatic-translator-addon-for-loco-translate.php:615
+msgid "In order to use <strong>%1$s</strong> (version <strong>%2$s</strong>), Please update <a href=\"%3$s\" class=\"thickbox\" title=\"%4$s\">%5$s</a> official plugin to a latest version (2.4.0 or upper)"
+msgstr "Để sử dụng <strong>%1$s</strong> (phiên bản <strong>%2$s</strong>), vui lòng cập nhật <a href=\"%3$s\" class=\"thickbox\" title=\"%4$s\">%5$s</a> plugin chính thức lên phiên bản mới nhất (2.4.0 hoặc cao hơn)."
+
+#: automatic-translator-addon-for-loco-translate.php:467
+msgid "In order to use <strong>%1$s</strong> plugin, please install and activate the latest version  of <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">%4$s</a>"
+msgstr "Để sử dụng plugin <strong>%1$s</strong>, vui lòng cài và kích hoạt phiên bản mới nhất của <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">%4$s</a>"
+
+#. Author of the plugin
+#: automatic-translator-addon-for-loco-translate.php
+msgid "Cool Plugins"
+msgstr "Cool Plugins"

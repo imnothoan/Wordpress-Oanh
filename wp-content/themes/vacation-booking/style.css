@@ -1,0 +1,551 @@
+/*
+Theme Name: Vacation Booking
+Theme URI: https://www.titanthemes.net/products/vacation-booking
+Author: Titan Themes
+Author URI: https://www.titanthemes.net/
+Description: The Vacation Booking theme is a modern, beautifully designed, and feature-rich solution tailored for travel agencies, tour operators, holiday planners, tourism companies, travel bloggers, travel influencers, destination marketing experts, and businesses offering vacation packages, guided tours, or online travel booking services. Perfect for showcasing luxury vacations, family holidays, adventure tours, cultural trips, honeymoon destinations, weekend getaways, eco-tourism packages, cruise trips, local experiences, or international tours, this theme provides an intuitive platform to promote destinations, services, and exclusive deals. Crafted for diverse travel niches, it’s ideal for creating travel guides, sharing itineraries, promoting adventure tourism, managing tour bookings, and publishing travel blogs enriched with immersive photography and video content. Built with a responsive, mobile-friendly, and retina-ready design, it ensures seamless performance across all devices. The Vacation Booking theme includes flexible layouts, destination filters, interactive call-to-action (CTA) buttons, translation-ready functionality, SEO-optimized code, and smooth navigation for enhanced user engagement. Integrated with WooCommerce and the WP Travel plugin, it supports hotel bookings, flight reservations, tour management, and travel package customization. It also works seamlessly with plugins like Contact Form 7, WooCommerce Bookings, and WP Travel Engine to handle inquiries, manage itineraries, and process secure online payments efficiently. Whether you run a travel startup, vacation rental business, or tour management company, Vacation Booking offers advanced booking tools, real-time availability features, and captivating visuals that help attract and convert travelers. Combining stunning design with fast performance and easy customization, this multipurpose travel theme empowers you to build a professional, interactive, and conversion-driven travel website that inspires exploration and adventure worldwide.
+Requires at least: 6.1
+Tested up to: 6.8
+Requires PHP: 7.2
+Version: 1.9
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Text Domain: vacation-booking
+Tags: grid-layout, one-column,  two-columns, left-sidebar, right-sidebar, wide-blocks, block-patterns, custom-background, custom-colors, custom-menu, custom-logo, editor-style, block-styles, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, style-variations, theme-options, threaded-comments, translation-ready,, e-commerce, photography, portfolio
+*/
+
+/*============== Effects Section ==============*/
+
+.animations-hidden-item{
+  opacity: 0;
+  transform: translateY(150px);
+  transition: all 1s;
+}
+
+.animations-show-item{
+  opacity: 1;
+  transform: translateY(0px);
+
+}
+
+.header-box-upper{
+  position: absolute;
+  left: 0px;
+  width: 100%;
+  z-index: 1;
+}
+.banner-image-wrap {
+  position: relative;
+}
+.customer-sec {
+  display: inline-flex !important;
+  background: transparent linear-gradient(107deg, #FFFEEF 0%, #FCD6BE 100%) 0% 0% no-repeat padding-box;
+  border: 1px solid #F1F1F1;
+  border-radius: 10px;
+  backdrop-filter: blur(30px);
+  gap: 10px;
+  position: absolute;
+  top: 15%;
+  left: 15%;
+}
+.colntact-section {
+  position: absolute;
+  bottom: -28px;
+  left: 0px;
+  width: 78%;
+  box-shadow: 0px 10px 18px #00000029;
+  z-index: 1;
+  text-align: center;
+  margin: 0 auto;
+  right: 0px;
+}
+.wc-block-mini-cart.wp-block-woocommerce-mini-cart,.wp-block-woocommerce-customer-account{
+  display: none;
+}
+.banner-section{
+  position: relative;
+}
+.colntact-section select.wpcf7-form-control.wpcf7-select,
+.colntact-section input.wpcf7-form-control.wpcf7-submit.has-spinner ,
+.colntact-section input.wpcf7-form-control.wpcf7-text,
+.colntact-section textarea.wpcf7-form-control.wpcf7-textarea,
+.colntact-section input.wpcf7-form-control.wpcf7-number.wpcf7-validates-as-number,
+.colntact-section span.wpcf7-list-item.first.last,
+.colntact-section span.wpcf7-form-control.wpcf7-acceptance.optional,
+.colntact-section input.wpcf7-form-control.wpcf7-file{
+  width: calc(calc(100% / 4) - calc(60px / 4)) !important;
+  float: left;
+  margin-right: 20px;
+}
+.award-box {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: -60px;
+}
+.about-left {
+  position: relative;
+}
+.about-left-image img {
+  width: 100%;
+}
+
+.colntact-section select.wpcf7-form-control.wpcf7-select,
+.colntact-section input.wpcf7-form-control.wpcf7-text,
+.colntact-section textarea.wpcf7-form-control.wpcf7-textarea,
+.colntact-section input.wpcf7-form-control.wpcf7-number.wpcf7-validates-as-number ,
+.colntact-section span.wpcf7-list-item.first.last,
+.colntact-section span.wpcf7-form-control.wpcf7-acceptance.optional,
+.colntact-section input.wpcf7-form-control.wpcf7-file{
+  border: unset;
+  padding: 14px 11px;
+  border-radius: 10px;
+  background-color: #F2F2F2;
+}
+.colntact-section input.wpcf7-form-control.wpcf7-submit.has-spinner {
+  border: unset;
+  padding: 14px 11px;
+  color: #ffffff;
+  margin-right: 0px;
+  border-radius: 10px;
+  background-color: #A57469;
+}
+.wp-site-blocks{
+  padding: 0 !important;
+}
+.colntact-section p{
+  margin: 0px;
+}
+.wpcf7-spinner {
+  position: absolute;
+  right: 0px;
+}
+.service-inner-box{
+  position: relative;
+}
+.destination-box{
+  position: relative;
+}
+.destination-content {
+  position: absolute;
+  width: 100%;
+  left: 0px;
+  z-index: 2;
+  bottom: 30px;
+}
+.destination-box .place-image, .destination-box .place-image img {
+  width: 100% !important;
+  object-fit: cover;
+}
+.service-inner-box .place-image, .service-inner-box .place-image img,
+.blog-post .place-image, .blog-post .place-image img {
+  width: 100% !important;
+  object-fit: cover;
+  vertical-align: bottom;
+}
+.destination-box:after{
+  background: #000;
+  content: "";
+  width:100%;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+  opacity: 0.2;
+  position: absolute;
+  border-radius: 20px;
+}
+.destination-box .wp-block-image img {
+  vertical-align: bottom;
+}
+p span.dashicons{
+  margin-right: 10px;
+  color: var(--wp--preset--color--primary) !important;
+}
+.sale-button {
+  position: absolute;
+  left: 0px;
+  top: 1%;
+  padding: 4px 10px !important;
+}
+.menu-box nav ul li a:hover{
+  color: var(--wp--preset--color--primary) !important;
+}
+.header-box-middle,.menu-box{
+  position: relative;
+}
+.menu-box a.wp-block-navigation-item__content:hover::before {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: var(--wp--preset--color--primary);
+  width: 100%;
+  height: 4px;
+  transform: translateY(-18px);
+  border-radius: 30px;
+}
+ul.wp-block-navigation__submenu-container.wp-block-navigation-submenu a.wp-block-navigation-item__content:hover::after,ul.wp-block-navigation__submenu-container.wp-block-navigation-submenu a.wp-block-navigation-item__content:hover::before {
+  display: none;
+}
+.menu-box a.wp-block-navigation-item__content:hover::after {
+  position: absolute;
+  content: '';
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: var(--wp--preset--color--primary);
+  width: 100%;
+  height: 4px;
+  transform: translateY(18px);
+  border-radius: 30px;
+}
+footer.wp-block-template-part .photolancer-footer-list {
+  gap: 15px;
+}
+.social-icon {
+  gap: 0px;
+}
+.head-menu-box{
+  border-bottom: 2px solid #ffffff;
+}
+.home .head-menu-box{
+  border-bottom: 0;
+}
+.social-icon li{
+  background-color:transparent !important;
+}
+.social-icon li a svg{
+  height: 20px !important;
+  width: 20px !important;
+}
+.wp-block-button.wc-block-components-product-button .wc-block-components-product-button__button,
+.woocommerce div.product form.cart button.single_add_to_cart_button, .woocommerce div.product form.cart button[name=add-to-cart],
+.woocommerce .cart .button, .woocommerce .cart input.button,
+#add_payment_method .wc-proceed-to-checkout a.checkout-button, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce-checkout .wc-proceed-to-checkout a.checkout-button,
+.wp-block-woocommerce-checkout-actions-block .wc-block-checkout__actions_row .wc-block-components-checkout-place-order-button,
+.wc-block-components-totals-coupon__form .wc-block-components-totals-coupon__button{
+  color: #fff !important;
+}
+.wlfmc-counter-wrapper{
+  width: auto;
+}
+.category-image {
+  position: relative;
+}
+.cart-btn {
+  position: absolute;
+  bottom: 10%;
+  left: 0px;
+  right: 0px;
+  margin: 0 auto;
+}
+.wp-block-woocommerce-customer-account a span{
+  font-family: Figtree;
+  font-weight: 500;
+}
+.wp-block-woocommerce-customer-account a{
+  display: flex;
+  flex-direction: row-reverse;
+}
+.cat-heading {
+  position: relative;
+  display: inline-block;
+  left: 0px;
+}
+.cat-heading:after{
+  content: "";
+  position: absolute;
+  top: 20px;
+  right: -40px;
+  width: 30px;
+  height: 7px;
+  background: #ED9D18;
+}
+.banner-text4 {
+  padding: 20px;
+  right: 0;
+  left: 0px;
+  width: 20%;
+  top: 9% !important;
+}
+.banner-area{
+  gap:0px;
+}
+.blue-bg,.banner-area-text-box{
+  position: relative;
+}
+.blue-bg img,.banner-area-text-box img {
+  width: 100%;
+  height: 100%;
+  vertical-align: middle !important;
+}
+.left-product-box {
+  border-radius: 18px 0px 0px 18px;
+}
+.temp-box h2 span {
+  color: #EA1044;
+}
+.button-right{
+  gap:10px;
+}
+.temp-box h2 span.celcious {
+  color: #2A2A2C;
+  vertical-align: super;
+  font-size: 13px;
+}
+.head-menu-box ul li a:hover {
+  background: #0E2646;
+  padding: 10px;
+}
+.banner-cover .wp-block-cover__inner-container{
+  padding:0px;
+}
+.head-menu-box ul li a {
+  padding: 10px;
+}
+.wp-block-image img{
+  vertical-align: unset;
+}
+.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container li a {
+  color: #000000;
+}
+.wp-site-blocks{
+	padding: 0 !important;
+}
+footer.wp-block-template-part {
+  margin-top: 0;
+}
+.comment-respond.wp-block-post-comments-form.wp-block-post-comments-form input[type=submit]{
+  color: #fff;
+}
+.sidebar-box .wp-block-search__button svg{
+  fill: #fff;
+}
+blockquote.wp-block-quote.is-layout-flow.wp-block-quote-is-layout-flow {
+    padding: 0px;
+    margin: 10px 0px;
+  }
+@media screen and (min-width: 320px) and (max-width: 599px) {
+  span.wp-block-navigation-item__label {
+    color: #000000;
+  }
+  
+}
+@media screen and (min-width: 320px) and (max-width: 781px) {
+  .slider-banner{
+    text-align: center;
+  }
+  .award-box {
+    position: relative;
+    transform: none;
+    right: 0px;
+  }
+  .colntact-section{
+    position: relative;
+    width: 100%;
+  }
+  .banner-content h2, .banner-content p, .banner-content .wp-block-buttons{
+    text-align: center;
+  }
+  .tour-box {
+    max-width: 90% !important;
+  }
+  .about-content{
+    padding-left: 0px !important;
+    text-align: center;
+  }
+  .blog-content h4,.blog-content p{
+    text-align: center !important;
+  }
+  .blog-content p{
+    font-size: 13px !important;
+  }
+  .small-image {
+    width: 100%;
+  }
+  .about-btn {
+    justify-content: center;
+  }
+  .meta-post p{
+    text-align: center !important;
+  }
+  .information-column{
+    justify-content: center;
+  }
+  .banner-image-wrap{
+    text-align: center;
+  }
+  .information-column p,.service-inner-box h4,.service-inner-box p{
+    text-align: center !important;
+  }
+  .colntact-section select.wpcf7-form-control.wpcf7-select, .colntact-section input.wpcf7-form-control.wpcf7-submit.has-spinner, .colntact-section input.wpcf7-form-control.wpcf7-text, .colntact-section textarea.wpcf7-form-control.wpcf7-textarea, .colntact-section input.wpcf7-form-control.wpcf7-number.wpcf7-validates-as-number, .colntact-section span.wpcf7-list-item.first.last, .colntact-section span.wpcf7-form-control.wpcf7-acceptance.optional, .colntact-section input.wpcf7-form-control.wpcf7-file {
+    width: 100% !important;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 19px;
+  }
+  .banner-content h2{
+    font-size: 30px !important;
+  }
+  .customer-sec {
+    position: relative;
+    top: 15%;
+    left: 0%;
+  }
+  .header-logo h1 {
+    text-align: center;
+  }
+  .header-button .wp-block-buttons{
+    justify-content: center;
+  }
+  .header-box-upper{
+    position: relative;
+  }
+  .header-box-middle{
+    max-width: 100% !important;
+  }
+  .banner-content .wp-block-buttons{
+    justify-content: center !important;
+  }
+  .banner-content{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    padding: 20px 0px;
+    transform: none;
+  }
+}
+@media screen and (min-width: 782px) and (max-width: 1200px) {
+  .tour-box{
+    max-width: 95% !important;
+    gap:10px;
+  }
+  .is-about-boxs{
+    flex-basis: 28% !important;
+  }
+  .about-small-image {
+    flex-basis: 18% !important;
+  }
+  .banner-heading {
+    font-size: 25px !important;
+  }
+  .meta-post,.team-box{
+    display: block !important;
+    text-align: center;
+  }
+  .information-column{
+    justify-content: center !important;
+  }
+  .meta-post p{
+    text-align: center !important;
+    margin-bottom: 10px !important;
+  }
+  .service-inner-box h4 {
+    font-size: 15px !important;
+  }
+  .banner-content{
+    position: relative;
+    transform: none;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 800px) {
+  .admin-bar .wp-block-navigation__responsive-container-close {
+    color: #000000;
+    top:15px;
+  }
+  .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-navigation__container{
+    justify-content: center !important;
+  }
+  .single-image figure{
+    width: 100% !important;
+  }
+}
+@media screen and (min-width: 1201px) and (max-width: 1500px) {
+
+  .meta-post,.team-box{
+    gap:0px;
+  }
+  .meta-post p,.information-column p {
+    font-size: 13px !important;
+  }
+}
+@media screen and (min-width: 1100px) and (max-width: 1200px) {
+  .header-logo {
+    flex-basis: 30% !important;
+  }
+  .menu-detail{
+    flex-basis: 70% !important;
+  }
+  .menu-box{
+    flex-basis: 75% !important;
+  }
+  .header-button{
+    flex-basis: 25% !important;
+    }
+  .banner-section{
+    min-height: 510px !important;
+  }
+}
+
+/*back to top*/
+.wp-block-button.scroll-to-top .wp-block-button__link.wp-element-button {
+  width: 40px;
+  height: 40px;
+  position: fixed;
+  right: 25px;
+  bottom: 25px;
+  display: inline-block;
+  z-index: 1;
+  text-indent: -5000px;
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.089);
+  display: none;
+  padding: 0;
+  margin-top: 0;
+}
+
+.wp-block-button.scroll-to-top .wp-block-button__link.wp-element-button:after {
+  content: "";
+  width: 40px;
+  height: 40px;
+  background-color: #fff;
+  -webkit-mask-image: url(assets/images/up-arrow.svg);
+  mask-image: url(assets/images/up-arrow.svg);
+  mask-repeat: no-repeat;
+  mask-position: center center;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center center;
+  position: absolute;
+  display: inline-block;
+  left: 0;
+  top: 0;
+}
+
+/* Blog Section */
+.news-section .news-box .wp-block-post-excerpt__excerpt{
+  color: #000000;
+}
+.news-heading-box .news-small-title{
+  width: max-content;
+}
+.news-section .news-heading-box{
+  gap: 0;
+}
+.news-section .news-box .wp-block-post:hover .wp-block-post-title a{
+  color: var(--wp--preset--color--primary);
+}
+.news-section .news-heading-box{
+  gap: 0;
+}
+.recent-btn a {
+  background: var(--wp--preset--color--primary);
+  padding: 10px 12px;
+  border-radius: 5px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+.recent-btn a:hover{
+  background: #000;
+}

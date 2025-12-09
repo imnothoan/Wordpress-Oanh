@@ -1,0 +1,43 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "Voilet",
+  "version": 2,
+  "settings": {
+    "color": {
+        "palette": [
+                {
+                    "color": "#ffffff",
+                    "name": "Base",
+                    "slug": "base"
+                },
+                {
+                    "color": "#000000",
+                    "name": "Contrast",
+                    "slug": "contrast"
+                },
+                {
+                    "color": "#7F00FF",
+                    "name": "Primary",
+                    "slug": "primary"
+                },
+                {
+                    "color": "#7F00FF",
+                    "name": "Secondary",
+                    "slug": "secondary"
+                },
+                {
+                    "color": "#7F00FF",
+                    "name": "Tertiary",
+                    "slug": "tertiary"
+                }
+            ],
+            "gradients": [
+              {
+                "gradient": "linear-gradient(135deg, #cba6f1 0%, #8035cb 100%)",
+                "name": "Tertiary Gradient",
+                "slug": "tertiary-gradient"
+              }
+            ]
+    }
+  }
+}

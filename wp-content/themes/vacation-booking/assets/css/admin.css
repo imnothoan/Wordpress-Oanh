@@ -1,0 +1,26 @@
+.service-inner-box{
+  position: relative !important;
+}
+.destination-content {
+  position: absolute !important;
+  width: 100% !important;
+  left: 0px !important;
+  z-index: 2 !important;
+  bottom: 30px !important;
+}
+.destination-box .place-image{
+    width: 100% !important;
+    object-fit: cover !important;
+}
+.destination-box:after{
+  background: #000 !important;
+  content: "" !important;
+  width:100% !important;
+  height: 100% !important;
+  left: 0px !important;
+  top: 0px !important;
+  z-index: 1 !important;
+  opacity: 0.5 !important;
+  position: absolute !important;
+  border-radius: 20px !important;
+}

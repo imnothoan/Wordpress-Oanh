@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Mansalva';
+    src: url('mansalva.eot');
+    src: url('mansalva.eot?#iefix') format('embedded-opentype'),
+        url('mansalva.woff2') format('woff2'),
+        url('mansalva.woff') format('woff'),
+        url('mansalva.ttf') format('truetype'),
+        url('mansalva.svg#mansalva') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

@@ -1,0 +1,43 @@
+<?php
+if ( ! defined( 'ABSPATH' ) ) {
+    exit; // Exit if accessed directly
+}
+get_header('ere');
+/**
+ * ere_before_main_content hook.
+ *
+ * @hooked ere_output_content_wrapper_start - 10 (outputs opening divs for the content)
+ */
+?>
+<div class="container py-5">
+    <div class="row">
+        <div class="col-lg-8 col-md-8 col-12">
+            <?php
+            do_action( 'ere_before_main_content' );
+            do_action('ere_single_property_before_main_content');
+            if (have_posts()):
+                while (have_posts()): the_post(); ?>
+                    <?php ere_get_template_part('content', 'single-property'); ?>
+                <?php endwhile;
+            endif;
+            do_action('ere_single_property_after_main_content');
+            /**
+             * ere_after_main_content hook.
+             *
+             * @hooked ere_output_content_wrapper_end - 10 (outputs closing divs for the content)
+             */
+            do_action( 'ere_after_main_content' );
+            ?>
+        </div>
+        <div class="col-lg-4 col-md-4 col-12">
+            <?php 
+            /**
+             * ere_sidebar_property hook.
+             *
+             * @hooked ere_sidebar_property - 10
+             */
+            do_action('ere_sidebar_property');?>
+        </div>
+    </div>
+</div>
+<?php get_footer('ere');

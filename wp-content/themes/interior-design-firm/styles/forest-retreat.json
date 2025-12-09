@@ -1,0 +1,91 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "Forest Retreat",
+  "version": 2,
+  "settings": {
+    "color": {
+        "palette": [
+            {
+                "color": "#ffffff",
+                "name": "Base",
+                "slug": "base"
+            },
+            {
+                "color": "#709272",
+                "name": "Primary",
+                "slug": "primary"
+            },
+            {
+                "color": "#1E2E1F",
+                "name": "Secondary",
+                "slug": "secondary"
+            },
+            {
+                "color": "#D6E2D4",
+                "name": "Primary Light",
+                "slug": "primary-light"
+            },
+            {
+                "color": "#B4C9B3",
+                "name": "Color One",
+                "slug": "color-one"
+            },
+            {
+                "color": "#7A9E89",
+                "name": "Color Two",
+                "slug": "color-two"
+            },
+            {
+                "color": "#547C66",
+                "name": "Color Three",
+                "slug": "color-three"
+            },
+            {
+                "color": "#3C5B48",
+                "name": "Color Four",
+                "slug": "color-four"
+            },
+            {
+                "color": "#22352B",
+                "name": "Headings",
+                "slug": "heading"
+            },
+            {
+                "color": "#4F5D53",
+                "name": "Body Text",
+                "slug": "body-text"
+            },
+            {
+                "color": "#F3F6F2",
+                "name": "Section Background",
+                "slug": "section-bg"
+            },
+            {
+                "color": "#eafbeb",
+                "name": "Second Background",
+                "slug": "second-bg"
+            },
+            {
+                "color": "#ffffff",
+                "name": "Background",
+                "slug": "background"
+            },
+            {
+                "color": "#121A15",
+                "name": "Foreground",
+                "slug": "foreground"
+            },
+            {
+                "color":"#C7D2C5",
+                "name": "Border Color",
+                "slug": "border-color"
+            },
+            {
+                "color":"#A9B5A8",
+                "name": "Sidebar Shadow Color",
+                "slug": "sidebar-shadow-color"
+            }
+        ]
+    }
+  }
+}
