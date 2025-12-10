@@ -4,11 +4,11 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
-RewriteBase /23IM031_Oanh-23IM015_Ki%E1%BB%81u/
+RewriteBase /23IM031_Oanh-23IM015_Kiều/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /23IM031_Oanh-23IM015_Ki%E1%BB%81u/index.php [L]
+RewriteRule . /23IM031_Oanh-23IM015_Kiều/index.php [L]
 </IfModule>
 
 # END WordPress
