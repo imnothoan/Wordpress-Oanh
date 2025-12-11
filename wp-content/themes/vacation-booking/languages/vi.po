@@ -1,0 +1,899 @@
+# Vietnamese translation for Vacation Booking theme
+# Copyright (C) 2025 Titan Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vacation Booking 1.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/vacation-booking\n"
+"Last-Translator: Vietnamese Team\n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-12-11T00:00:00+00:00\n"
+"PO-Revision-Date: 2025-12-11T00:00:00+00:00\n"
+"X-Generator: Poedit\n"
+"X-Domain: vacation-booking\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Theme strings translations
+
+#: patterns/tour.php
+msgid "Price"
+msgstr "Giá"
+
+#: patterns/tour.php
+msgid "Price "
+msgstr "Giá "
+
+#: patterns/tour.php
+msgid "Sale"
+msgstr "Giảm giá"
+
+#: patterns/tour.php
+msgid "Welcome To Tour Place"
+msgstr "Chào mừng đến với Địa điểm Du lịch"
+
+#: patterns/tour.php
+msgid "Most Favorite Tour Place"
+msgstr "Địa điểm Du lịch Yêu thích nhất"
+
+#: patterns/tour.php
+msgid "Canada, Gananoque Islands"
+msgstr "Canada, Quần đảo Gananoque"
+
+#: patterns/tour.php
+msgid "Japan on a Shoestring"
+msgstr "Nhật Bản tiết kiệm"
+
+#: patterns/tour.php
+msgid "United france Emirates Desert,"
+msgstr "Sa mạc Tiểu Vương Quốc Pháp"
+
+#: patterns/tour.php
+msgid "7 Days South – Central of tokyo"
+msgstr "7 Ngày Miền Nam - Trung tâm Tokyo"
+
+#: patterns/tour.php
+msgid "Surfers Private France Beach"
+msgstr "Bãi biển Riêng cho Lướt sóng Pháp"
+
+#: patterns/tour.php
+msgid "Maldives Adventure Tour"
+msgstr "Tour Mạo hiểm Maldives"
+
+#: patterns/tour.php
+msgid "820 berlin city fl."
+msgstr "820 thành phố Berlin"
+
+#: patterns/tour.php
+msgid "04 People"
+msgstr "04 Người"
+
+#: patterns/tour.php
+msgid "05 Days"
+msgstr "05 Ngày"
+
+#: patterns/tour.php
+msgid "Hotel Name"
+msgstr "Tên Khách sạn"
+
+#: patterns/tour.php
+msgid "Kelvin Shah"
+msgstr "Kelvin Shah"
+
+#: patterns/tour.php
+msgid "Property Owner"
+msgstr "Chủ sở hữu"
+
+#: patterns/tour.php
+msgid "$150.000"
+msgstr "150.000 $"
+
+# Banner Block patterns
+#: patterns/banner-block.php
+msgid "Travel, Enjoy & "
+msgstr "Du lịch, Tận hưởng & "
+
+#: patterns/banner-block.php
+msgid "Live A"
+msgstr "Sống một"
+
+#: patterns/banner-block.php
+msgid "New"
+msgstr "Cuộc sống"
+
+#: patterns/banner-block.php
+msgid "Full Life"
+msgstr "Trọn vẹn Mới"
+
+#: patterns/banner-block.php
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting"
+msgstr "Khám phá những địa điểm tuyệt vời nhất trên thế giới"
+
+#: patterns/banner-block.php
+msgid "industry. Lorem Ipsum has been the industry's standard dummy text."
+msgstr "Chúng tôi mang đến trải nghiệm du lịch đáng nhớ cho bạn."
+
+#: patterns/banner-block.php
+msgid "Happy Customer"
+msgstr "Khách hàng hài lòng"
+
+#: patterns/banner-block.php
+msgid "2000,00"
+msgstr "2.000+"
+
+# Destination patterns
+#: patterns/destination.php
+msgid "Get To Know Us"
+msgstr "Tìm hiểu về Chúng tôi"
+
+#: patterns/destination.php
+msgid "Top Destination"
+msgstr "Điểm đến Hàng đầu"
+
+#: patterns/destination.php
+msgid "London"
+msgstr "London"
+
+#: patterns/destination.php
+msgid "Atlanta"
+msgstr "Atlanta"
+
+#: patterns/destination.php
+msgid "New York"
+msgstr "New York"
+
+#: patterns/destination.php
+msgid "Niagara Fall"
+msgstr "Thác Niagara"
+
+#: patterns/destination.php
+msgid "Cambodia"
+msgstr "Campuchia"
+
+#: patterns/destination.php
+msgid "Colosseum"
+msgstr "Đấu trường La Mã"
+
+#: patterns/destination.php
+msgid "Ice Land"
+msgstr "Iceland"
+
+#: patterns/destination.php
+msgid "San francisco"
+msgstr "San Francisco"
+
+#: patterns/destination.php
+msgid "04 Tours"
+msgstr "04 Tour"
+
+#: patterns/destination.php
+msgid "View All Tours"
+msgstr "Xem tất cả Tour"
+
+# About Us patterns
+#: patterns/about-us.php
+msgid "20 Year "
+msgstr "20 Năm "
+
+#: patterns/about-us.php
+msgid "Experience"
+msgstr "Kinh nghiệm"
+
+#: patterns/about-us.php
+#: patterns/footer-default.php
+msgid "About Us"
+msgstr "Về chúng tôi"
+
+#: patterns/about-us.php
+msgid "Take Advantage Of Limitless Possibilities"
+msgstr "Tận dụng những Khả năng Vô hạn"
+
+#: patterns/about-us.php
+msgid "With Us."
+msgstr "Cùng với Chúng tôi."
+
+#: patterns/about-us.php
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et metus augue. Mauris "
+msgstr "Với hơn 20 năm kinh nghiệm trong ngành du lịch, chúng tôi tự hào mang đến những "
+
+#: patterns/about-us.php
+msgid "ut libero eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et metus "
+msgstr "trải nghiệm du lịch tuyệt vời nhất cho khách hàng. Đội ngũ chuyên gia của chúng tôi "
+
+#: patterns/about-us.php
+msgid "augue. Mauris ut libero eget.Lorem ipsum dolor sit amet, consectetur adipisceelit. Phasellus"
+msgstr "luôn sẵn sàng hỗ trợ bạn lên kế hoạch cho chuyến đi hoàn hảo. Hãy để chúng tôi "
+
+#: patterns/about-us.php
+msgid "et metus augue. Mauris ut libero eget. Lorem ipsum dolor sit amet, consectetur adipiscing "
+msgstr "đồng hành cùng bạn trong mọi hành trình khám phá những điểm đến tuyệt vời "
+
+#: patterns/about-us.php
+msgid "elit. Phasellus et metus augue. Mauris ut libero eget."
+msgstr "trên khắp thế giới."
+
+#: patterns/about-us.php
+msgid "John Verma"
+msgstr "Nguyễn Văn A"
+
+#: patterns/about-us.php
+msgid "Travel Guidence"
+msgstr "Hướng dẫn viên Du lịch"
+
+#: patterns/about-us.php
+msgid "Learn More"
+msgstr "Tìm hiểu thêm"
+
+# Blog patterns
+#: patterns/blog.php
+msgid "News & Blog"
+msgstr "Tin tức & Blog"
+
+#: patterns/blog.php
+msgid "Our Latest Blog & Articles"
+msgstr "Bài viết & Blog Mới nhất"
+
+#: patterns/blog.php
+msgid "Island Hopping And Weather Tips"
+msgstr "Khám phá Đảo và Mẹo Thời tiết"
+
+#: patterns/blog.php
+msgid "Fast-Track to Your Dream Destinations"
+msgstr "Đường tắt đến Điểm đến Mơ ước"
+
+#: patterns/blog.php
+msgid "Beach Days, Long Hikes, And others"
+msgstr "Ngày Biển, Leo núi Dài, và Nhiều hơn nữa"
+
+#: patterns/blog.php
+msgid "We have implemented new guidelines to help "
+msgstr "Chúng tôi đã triển khai các hướng dẫn mới để giúp "
+
+#: patterns/blog.php
+msgid "keep you safer while you travel.We have "
+msgstr "bạn an toàn hơn khi du lịch. Chúng tôi đã "
+
+#: patterns/blog.php
+msgid "implemented new guidelines to help keep"
+msgstr "triển khai các hướng dẫn mới để giúp giữ"
+
+#: patterns/blog.php
+msgid " you safer while you travel."
+msgstr " bạn an toàn hơn khi du lịch."
+
+#: patterns/blog.php
+msgid "We have implemented new guidelines to help"
+msgstr "Chúng tôi đã triển khai các hướng dẫn mới để giúp"
+
+#: patterns/blog.php
+msgid "you safer while you travel."
+msgstr "bạn an toàn hơn khi du lịch."
+
+#: patterns/blog.php
+msgid "Read More"
+msgstr "Đọc thêm"
+
+#: patterns/blog.php
+msgid "February 20 2025"
+msgstr "20 Tháng 2, 2025"
+
+# Footer patterns
+#: patterns/footer-default.php
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+msgstr "Chúng tôi là đơn vị du lịch hàng đầu, mang đến những trải nghiệm tuyệt vời và dịch vụ chất lượng cao cho khách hàng. Hãy liên hệ với chúng tôi để bắt đầu hành trình của bạn."
+
+#: patterns/footer-default.php
+msgid "Quick Links"
+msgstr "Liên kết Nhanh"
+
+#: patterns/footer-default.php
+msgid "Policy"
+msgstr "Chính sách"
+
+#: patterns/footer-default.php
+msgid "Terms and Conditions"
+msgstr "Điều khoản và Điều kiện"
+
+#: patterns/footer-default.php
+msgid "Career"
+msgstr "Tuyển dụng"
+
+#: patterns/footer-default.php
+msgid "Blog"
+msgstr "Blog"
+
+#: patterns/footer-default.php
+msgid "Contact Us"
+msgstr "Liên hệ"
+
+#: patterns/footer-default.php
+msgid "Services"
+msgstr "Dịch vụ"
+
+#: patterns/footer-default.php
+msgid "Knowledge Base"
+msgstr "Cơ sở Kiến thức"
+
+#: patterns/footer-default.php
+msgid "Contact Support"
+msgstr "Hỗ trợ Liên hệ"
+
+#: patterns/footer-default.php
+msgid "Privacy Policy"
+msgstr "Chính sách Bảo mật"
+
+#: patterns/footer-default.php
+msgid "Blog Articles"
+msgstr "Bài viết Blog"
+
+#: patterns/footer-default.php
+msgid "Brand Assets"
+msgstr "Tài sản Thương hiệu"
+
+#: patterns/footer-default.php
+msgid "Brand Guidelines"
+msgstr "Hướng dẫn Thương hiệu"
+
+#: patterns/footer-default.php
+msgid "14th Street, Caltech, New Jersey, Alabama"
+msgstr "Số 14, Phố Caltech, New Jersey, Alabama"
+
+#: patterns/footer-default.php
+msgid "Monday - Friday"
+msgstr "Thứ Hai - Thứ Sáu"
+
+#: patterns/footer-default.php
+msgid "8:00 a.m. - 5:00 p.m."
+msgstr "8:00 sáng - 5:00 chiều"
+
+#: patterns/footer-default.php
+msgid "email@example.com"
+msgstr "email@example.com"
+
+#: patterns/footer-default.php
+msgid "+1 (012) 345-6780"
+msgstr "+84 (0) 123-456-789"
+
+#: patterns/footer-default.php
+msgid "Vacation Booking WordPress Theme "
+msgstr "Theme WordPress Đặt Phòng Nghỉ dưỡng "
+
+#: patterns/footer-default.php
+msgid " | Proudly powered By"
+msgstr " | Được hỗ trợ bởi"
+
+#: patterns/footer-default.php
+msgid "WordPress"
+msgstr "WordPress"
+
+# Header patterns
+#: patterns/header.php
+msgid "Book Now"
+msgstr "Đặt ngay"
+
+#: patterns/header.php
+msgid "Bok Now"
+msgstr "Đặt ngay"
+
+# Sidebar patterns
+#: patterns/sidebar.php
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: patterns/sidebar.php
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#: patterns/sidebar.php
+msgid "Popular Post"
+msgstr "Bài viết Phổ biến"
+
+#: patterns/sidebar.php
+msgid "Categories"
+msgstr "Danh mục"
+
+#: patterns/sidebar.php
+msgid "Tags"
+msgstr "Thẻ"
+
+#: patterns/sidebar.php
+msgid "Follow Us On"
+msgstr "Theo dõi chúng tôi"
+
+# Hidden 404 patterns
+#: patterns/hidden-404.php
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-404.php
+msgctxt "Message to convey that a webpage could not be found"
+msgid "This page could not be found."
+msgstr "Không tìm thấy trang này."
+
+#: patterns/hidden-404.php
+#: patterns/hidden-no-results.php
+msgctxt "label"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: patterns/hidden-404.php
+#: patterns/hidden-no-results.php
+msgctxt "placeholder for search field"
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+# Hidden No Results patterns
+#: patterns/hidden-no-results.php
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, không có kết quả phù hợp với từ khóa tìm kiếm của bạn. Vui lòng thử lại với từ khóa khác."
+
+# Hidden Comments patterns
+#: patterns/hidden-comments.php
+msgctxt "Title of comments section"
+msgid "Comments"
+msgstr "Bình luận"
+
+# Post Meta patterns
+#: patterns/post-meta.php
+msgctxt "Verb to explain the publication status of a post"
+msgid "Posted"
+msgstr "Đã đăng"
+
+#: patterns/post-meta.php
+msgctxt "Preposition to show the relationship between the post and its categories"
+msgid "in"
+msgstr "trong"
+
+#: patterns/post-meta.php
+msgctxt "Preposition to show the relationship between the post and its author"
+msgid "by"
+msgstr "bởi"
+
+#: patterns/post-meta.php
+msgctxt "Label for a list of post tags"
+msgid "Tags:"
+msgstr "Thẻ:"
+
+# Related Post patterns
+#: patterns/related-post.php
+msgid "Related Posts :-"
+msgstr "Bài viết Liên quan :-"
+
+# Theme metadata
+#: style.css
+msgid "Vacation Booking"
+msgstr "Đặt Phòng Nghỉ dưỡng"
+
+# Customizer strings
+#: inc/customizer.php
+msgid "GO TO PREMIUM"
+msgstr "NÂNG CẤP PREMIUM"
+
+#: inc/customizer.php
+msgid "All themes in Single Package"
+msgstr "Tất cả theme trong Gói Đơn"
+
+#: inc/customizer.php
+msgid "GET BUNDLE"
+msgstr "MUA GÓI"
+
+# About theme strings
+#: about-theme/about-theme.php
+msgid "Welcome! Thank you for choosing %1$s."
+msgstr "Chào mừng! Cảm ơn bạn đã chọn %1$s."
+
+#: about-theme/about-theme.php
+msgid "By clicking \"Get Started,\" you can access our theme features."
+msgstr "Bằng cách nhấp \"Bắt đầu,\" bạn có thể truy cập các tính năng của theme."
+
+#: about-theme/about-theme.php
+msgid "Get started with %s"
+msgstr "Bắt đầu với %s"
+
+#: about-theme/about-theme.php
+msgid "GO FOR PREMIUM"
+msgstr "NÂNG CẤP PREMIUM"
+
+#: about-theme/about-theme.php
+msgid "UPGRADE TO PREMIUM"
+msgstr "NÂNG CẤP LÊN PREMIUM"
+
+#: about-theme/about-theme.php
+msgid "PREMIUM DEMONSTRATION"
+msgstr "DEMO PREMIUM"
+
+#: about-theme/about-theme.php
+msgid "Effortlessly create and customize your website by arranging text, images, and other elements using the Gutenberg editor, making web design easy and accessible for all skill levels."
+msgstr "Dễ dàng tạo và tùy chỉnh website của bạn bằng cách sắp xếp văn bản, hình ảnh và các yếu tố khác bằng trình soạn thảo Gutenberg, giúp thiết kế web trở nên dễ dàng và phù hợp với mọi cấp độ kỹ năng."
+
+#: about-theme/about-theme.php
+msgid "DEMONSTRATION"
+msgstr "DEMO"
+
+#: about-theme/about-theme.php
+msgid "REVIEWS"
+msgstr "ĐÁNH GIÁ"
+
+#: about-theme/about-theme.php
+msgid "We would be happy to hear your thoughts and value your evaluation."
+msgstr "Chúng tôi rất vui được lắng nghe ý kiến và đánh giá của bạn."
+
+#: about-theme/about-theme.php
+msgid "24/7 SUPPORT"
+msgstr "HỖ TRỢ 24/7"
+
+#: about-theme/about-theme.php
+msgid "Please do not hesitate to contact us at support if you need help installing our lite theme. We are prepared to assist you!"
+msgstr "Vui lòng liên hệ bộ phận hỗ trợ nếu bạn cần trợ giúp cài đặt theme lite. Chúng tôi sẵn sàng hỗ trợ bạn!"
+
+#: about-theme/about-theme.php
+msgid "SUPPORT"
+msgstr "HỖ TRỢ"
+
+#: about-theme/about-theme.php
+msgid "THEME INSTRUCTION"
+msgstr "HƯỚNG DẪN THEME"
+
+#: about-theme/about-theme.php
+msgid "If you need assistance configuring and setting up the theme, our tutorial is available. A fast and simple method for setting up the theme."
+msgstr "Nếu bạn cần hỗ trợ cấu hình và thiết lập theme, hướng dẫn của chúng tôi có sẵn. Phương pháp nhanh và đơn giản để thiết lập theme."
+
+#: about-theme/about-theme.php
+msgid "DOCUMENTATION"
+msgstr "TÀI LIỆU"
+
+#: about-theme/about-theme.php
+msgid "The premium version of this theme will be available for you to enhance or unlock our premium features."
+msgstr "Phiên bản premium của theme này sẽ có sẵn để bạn nâng cao hoặc mở khóa các tính năng premium."
+
+#: about-theme/about-theme.php
+msgid "PREMIUM DEMO"
+msgstr "DEMO PREMIUM"
+
+#: about-theme/about-theme.php
+msgid "PRO DOCUMENTATION"
+msgstr "TÀI LIỆU PRO"
+
+# TGM Plugin Activation strings
+#: class-tgm-plugin-activation.php
+msgid "Install Required Plugins"
+msgstr "Cài đặt Plugin Bắt buộc"
+
+#: class-tgm-plugin-activation.php
+msgid "Install Plugins"
+msgstr "Cài đặt Plugin"
+
+#: class-tgm-plugin-activation.php
+msgid "Installing Plugin: %s"
+msgstr "Đang cài đặt Plugin: %s"
+
+#: class-tgm-plugin-activation.php
+msgid "Updating Plugin: %s"
+msgstr "Đang cập nhật Plugin: %s"
+
+#: class-tgm-plugin-activation.php
+msgid "Something went wrong with the plugin API."
+msgstr "Đã xảy ra lỗi với API plugin."
+
+#: class-tgm-plugin-activation.php
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Theme này yêu cầu plugin sau: %1$s."
+
+#: class-tgm-plugin-activation.php
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Theme này khuyến nghị plugin sau: %1$s."
+
+#: class-tgm-plugin-activation.php
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Bắt đầu cài đặt plugin"
+
+#: class-tgm-plugin-activation.php
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Bắt đầu cập nhật plugin"
+
+#: class-tgm-plugin-activation.php
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Bắt đầu kích hoạt plugin"
+
+#: class-tgm-plugin-activation.php
+msgid "Return to Required Plugins Installer"
+msgstr "Quay lại Trình cài đặt Plugin Bắt buộc"
+
+#: class-tgm-plugin-activation.php
+msgid "Return to the Dashboard"
+msgstr "Quay lại Bảng điều khiển"
+
+#: class-tgm-plugin-activation.php
+msgid "Plugin activated successfully."
+msgstr "Plugin đã được kích hoạt thành công."
+
+#: class-tgm-plugin-activation.php
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Plugin sau đã được kích hoạt thành công:"
+
+#: class-tgm-plugin-activation.php
+msgid "Dismiss this notice"
+msgstr "Bỏ qua thông báo này"
+
+#: class-tgm-plugin-activation.php
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Có một hoặc nhiều plugin bắt buộc hoặc khuyến nghị cần cài đặt, cập nhật hoặc kích hoạt."
+
+#: class-tgm-plugin-activation.php
+msgid "Required"
+msgstr "Bắt buộc"
+
+#: class-tgm-plugin-activation.php
+msgid "Recommended"
+msgstr "Khuyến nghị"
+
+#: class-tgm-plugin-activation.php
+msgid "Not Installed"
+msgstr "Chưa cài đặt"
+
+#: class-tgm-plugin-activation.php
+msgid "Installed But Not Activated"
+msgstr "Đã cài đặt nhưng Chưa kích hoạt"
+
+#: class-tgm-plugin-activation.php
+msgid "Active"
+msgstr "Đang hoạt động"
+
+#: class-tgm-plugin-activation.php
+msgid "Install"
+msgstr "Cài đặt"
+
+#: class-tgm-plugin-activation.php
+msgid "Update"
+msgstr "Cập nhật"
+
+#: class-tgm-plugin-activation.php
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: class-tgm-plugin-activation.php
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php
+msgid "Source"
+msgstr "Nguồn"
+
+#: class-tgm-plugin-activation.php
+msgid "Type"
+msgstr "Loại"
+
+#: class-tgm-plugin-activation.php
+msgid "Version"
+msgstr "Phiên bản"
+
+#: class-tgm-plugin-activation.php
+msgid "Status"
+msgstr "Trạng thái"
+
+# TGM strings
+#: tgm.php
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+# Theme.json strings
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page With No Sidebar"
+msgstr "Trang Không có Sidebar"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr "Bố cục Lưới (Bài viết Lưu trữ)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Blog Page (Sidebar on Right)"
+msgstr "Trang Blog Đơn (Sidebar bên Phải)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Blog Page (Sidebar on Left)"
+msgstr "Trang Blog Đơn (Sidebar bên Trái)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Right)"
+msgstr "Trang Đơn (Sidebar bên Phải)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Left)"
+msgstr "Trang Đơn (Sidebar bên Trái)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Trống"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "404"
+msgstr "404"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Đầu trang"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Chân trang"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Bình luận"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr "Thông tin Bài viết"
+
+# Color names
+#: theme.json
+#: styles/brown.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/sky-blue.json
+#: styles/voilet.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Cơ bản"
+
+#: theme.json
+#: styles/brown.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/sky-blue.json
+#: styles/voilet.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Tương phản"
+
+#: theme.json
+#: styles/brown.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/sky-blue.json
+#: styles/voilet.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Chính"
+
+#: theme.json
+#: styles/brown.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/sky-blue.json
+#: styles/voilet.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Phụ"
+
+#: theme.json
+#: styles/brown.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/sky-blue.json
+#: styles/voilet.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Thứ ba"
+
+#: theme.json
+#: styles/brown.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/sky-blue.json
+#: styles/voilet.json
+#: styles/yellow.json
+msgctxt "Gradient name"
+msgid "Tertiary Gradient"
+msgstr "Gradient Thứ ba"
+
+# Style variation names
+#: styles/brown.json
+msgctxt "Style variation name"
+msgid "Brown"
+msgstr "Nâu"
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr "Xanh lá"
+
+#: styles/pink.json
+msgctxt "Style variation name"
+msgid "Pink"
+msgstr "Hồng"
+
+#: styles/red.json
+msgctxt "Style variation name"
+msgid "Red"
+msgstr "Đỏ"
+
+#: styles/sky-blue.json
+msgctxt "Style variation name"
+msgid "Sky Blue"
+msgstr "Xanh da trời"
+
+#: styles/voilet.json
+msgctxt "Style variation name"
+msgid "Voilet"
+msgstr "Tím"
+
+#: styles/yellow.json
+msgctxt "Style variation name"
+msgid "Yellow"
+msgstr "Vàng"
+
+# Font family names
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Barlow Condensed"
+msgstr "Barlow Condensed"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Fira Sans"
+msgstr "Fira Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Allura"
+msgstr "Allura"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Figtree"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto Flex"
+msgstr "Roboto Flex"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "Font Hệ thống"
