@@ -8213,3 +8213,44 @@ msgstr "youtube-square"
 #: inc/TTBM_Travel_List_Tab_Details.php:225
 msgid "— None —"
 msgstr "— Không —"
+
+#: templates/ticket/regular_ticket.php:123
+msgid "tickets left"
+msgstr "vé còn lại"
+
+#: templates/ticket/regular_ticket.php:123
+msgid "ticket left"
+msgstr "vé còn lại"
+
+#: templates/ticket/regular_ticket.php:116
+msgid "Sold Out"
+msgstr "Hết vé"
+
+#: templates/ticket/regular_ticket.php:130
+msgid "Almost sold out!"
+msgstr "Sắp hết vé!"
+
+#: templates/ticket/regular_ticket.php:136
+#, php-format
+msgid "%1$d of %2$d sold"
+msgstr "Đã bán %1$d/%2$d"
+
+#: templates/ticket/regular_ticket.php:153
+msgid "Not Available"
+msgstr "Không có sẵn"
+
+#: templates/ticket/regular_ticket.php:34
+msgid "Availability"
+msgstr "Tình trạng"
+
+#: templates/ticket/regular_ticket.php:35
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: templates/ticket/regular_ticket.php:103
+msgid "% OFF"
+msgstr "% GIẢM"
+
+#: templates/ticket/extra_service.php:67
+msgid "sold out"
+msgstr "hết hàng"

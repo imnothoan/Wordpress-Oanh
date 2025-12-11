@@ -1,0 +1,2183 @@
+# Vietnamese translation for Vacation Booking theme
+# Copyright (C) 2025 Titan Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vacation Booking 1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/vacation-booking\n"
+"POT-Creation-Date: 2025-08-25T18:38:52+05:30\n"
+"PO-Revision-Date: 2025-12-11 10:00+0700\n"
+"Last-Translator: Vietnamese Translator\n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: vacation-booking\n"
+
+#: style.css
+#: inc/customizer.php:23
+msgid "Vacation Booking"
+msgstr "Đặt Tour Du Lịch"
+
+#: about-theme/about-theme.php:67
+msgid "Welcome! Thank you for choosing %1$s."
+msgstr "Chào mừng! Cảm ơn bạn đã chọn %1$s."
+
+#: about-theme/about-theme.php:68
+msgid "By clicking \"Get Started,\" you can access our theme features."
+msgstr "Bằng cách nhấp vào \"Bắt đầu\", bạn có thể truy cập các tính năng của theme."
+
+#: about-theme/about-theme.php:70
+msgid "Get started with %s"
+msgstr "Bắt đầu với %s"
+
+#: about-theme/about-theme.php:71
+msgid "GO FOR PREMIUM"
+msgstr "NÂNG CẤP PREMIUM"
+
+#: about-theme/about-theme.php:123
+msgid "UPGRADE TO PREMIUM"
+msgstr "NÂNG CẤP LÊN PREMIUM"
+
+#: about-theme/about-theme.php:131
+msgid "PREMIUM DEMONSTRATION"
+msgstr "DEMO PREMIUM"
+
+#: about-theme/about-theme.php:132
+msgid "Effortlessly create and customize your website by arranging text, images, and other elements using the Gutenberg editor, making web design easy and accessible for all skill levels."
+msgstr "Dễ dàng tạo và tùy chỉnh trang web của bạn bằng cách sắp xếp văn bản, hình ảnh và các thành phần khác sử dụng trình soạn thảo Gutenberg, giúp thiết kế web dễ dàng và phù hợp với mọi trình độ."
+
+#: about-theme/about-theme.php:134
+msgid "DEMONSTRATION"
+msgstr "TRÌNH DIỄN"
+
+#: about-theme/about-theme.php:138
+#: about-theme/about-theme.php:141
+msgid "REVIEWS"
+msgstr "ĐÁNH GIÁ"
+
+#: about-theme/about-theme.php:139
+msgid "We would be happy to hear your thoughts and value your evaluation."
+msgstr "Chúng tôi rất vui khi được lắng nghe ý kiến và đánh giá của bạn."
+
+#: about-theme/about-theme.php:145
+msgid "24/7 SUPPORT"
+msgstr "HỖ TRỢ 24/7"
+
+#: about-theme/about-theme.php:146
+msgid "Please do not hesitate to contact us at support if you need help installing our lite theme. We are prepared to assist you!"
+msgstr "Đừng ngần ngại liên hệ với bộ phận hỗ trợ nếu bạn cần giúp đỡ trong việc cài đặt theme. Chúng tôi sẵn sàng hỗ trợ bạn!"
+
+#: about-theme/about-theme.php:148
+msgid "SUPPORT"
+msgstr "HỖ TRỢ"
+
+#: about-theme/about-theme.php:152
+msgid "THEME INSTRUCTION"
+msgstr "HƯỚNG DẪN SỬ DỤNG THEME"
+
+#: about-theme/about-theme.php:153
+msgid "If you need assistance configuring and setting up the theme, our tutorial is available. A fast and simple method for setting up the theme."
+msgstr "Nếu bạn cần hỗ trợ cấu hình và thiết lập theme, hãy xem hướng dẫn của chúng tôi. Phương pháp nhanh chóng và đơn giản để thiết lập theme."
+
+#: about-theme/about-theme.php:155
+msgid "DOCUMENTATION"
+msgstr "TÀI LIỆU"
+
+#: about-theme/about-theme.php:164
+msgid "The premium version of this theme will be available for you to enhance or unlock our premium features."
+msgstr "Phiên bản premium của theme này sẽ giúp bạn nâng cao hoặc mở khóa các tính năng premium."
+
+#: about-theme/about-theme.php:169
+#: inc/customizer.php:24
+msgid "GO TO PREMIUM"
+msgstr "CHUYỂN ĐẾN PREMIUM"
+
+#: about-theme/about-theme.php:174
+msgid "PREMIUM DEMO"
+msgstr "DEMO PREMIUM"
+
+#: about-theme/about-theme.php:179
+msgid "PRO DOCUMENTATION"
+msgstr "TÀI LIỆU CHUYÊN NGHIỆP"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Cài đặt các plugin yêu cầu"
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Cài đặt Plugin"
+
+#: patterns/about-us.php:13
+msgid "About Us"
+msgstr "Về Chúng Tôi"
+
+#: patterns/about-us.php
+msgid "About Company"
+msgstr "Về Công Ty"
+
+#: patterns/about-us.php
+msgid "Know More About Our Story"
+msgstr "Tìm Hiểu Thêm Về Câu Chuyện Của Chúng Tôi"
+
+#: patterns/about-us.php
+msgid "Learn More"
+msgstr "Tìm Hiểu Thêm"
+
+#: patterns/about-us.php
+msgid "Years Of Trust"
+msgstr "Năm Tin Cậy"
+
+#: patterns/about-us.php
+msgid "Happy Customer"
+msgstr "Khách Hàng Hài Lòng"
+
+#: patterns/about-us.php
+msgid "Destinations"
+msgstr "Điểm Đến"
+
+#: patterns/about-us.php
+msgid "Tour Packages"
+msgstr "Gói Tour"
+
+#: patterns/banner.php:23
+msgid "Journey Awaits"
+msgstr "Hành Trình Đang Chờ"
+
+#: patterns/banner.php:27
+msgid "HAPPY VACATION TIME"
+msgstr "KỲ NGHỈ VUI VẺ"
+
+#: patterns/banner.php:31
+msgid "Explore More"
+msgstr "Khám Phá Thêm"
+
+#: patterns/call-to-action.php:13
+msgid "Discover The Best Vacation"
+msgstr "Khám Phá Kỳ Nghỉ Tuyệt Vời Nhất"
+
+#: patterns/call-to-action.php:17
+msgid "Explore Vacation"
+msgstr "Khám Phá Kỳ Nghỉ"
+
+#: patterns/category.php:9
+msgid "View Categories"
+msgstr "Xem Danh Mục"
+
+#: patterns/category.php:13
+msgid "Top Categories"
+msgstr "Danh Mục Hàng Đầu"
+
+#: patterns/counter.php:17
+msgid "Happy Traveler"
+msgstr "Du Khách Hài Lòng"
+
+#: patterns/counter.php:28
+msgid "Awesome Tours"
+msgstr "Tour Tuyệt Vời"
+
+#: patterns/counter.php:39
+msgid "Vacations"
+msgstr "Kỳ Nghỉ"
+
+#: patterns/counter.php:50
+msgid "Guides"
+msgstr "Hướng Dẫn Viên"
+
+#: patterns/footer-default.php:21
+msgid "Quick Links"
+msgstr "Liên Kết Nhanh"
+
+#: patterns/footer-default.php:26
+msgid "Home"
+msgstr "Trang Chủ"
+
+#: patterns/footer-default.php:30
+msgid "About"
+msgstr "Giới Thiệu"
+
+#: patterns/footer-default.php:34
+msgid "Projects"
+msgstr "Dự Án"
+
+#: patterns/footer-default.php:38
+msgid "Gallery"
+msgstr "Thư Viện Ảnh"
+
+#: patterns/footer-default.php:42
+msgid "Contact"
+msgstr "Liên Hệ"
+
+#: patterns/footer-default.php:49
+msgid "Company"
+msgstr "Công Ty"
+
+#: patterns/footer-default.php:57
+msgid "Terms and Conditions"
+msgstr "Điều Khoản và Điều Kiện"
+
+#: patterns/footer-default.php:61
+msgid "Career"
+msgstr "Nghề Nghiệp"
+
+#: patterns/footer-default.php:65
+msgid "Blog"
+msgstr "Blog"
+
+#: patterns/footer-default.php:69
+#: patterns/footer-default.php:108
+msgid "Contact Us"
+msgstr "Liên Hệ Với Chúng Tôi"
+
+#: patterns/footer-default.php:76
+msgid "Services"
+msgstr "Dịch Vụ"
+
+#: patterns/footer-default.php:81
+msgid "Knowledge Base"
+msgstr "Cơ Sở Kiến Thức"
+
+#: patterns/footer-default.php:85
+msgid "Contact Support"
+msgstr "Liên Hệ Hỗ Trợ"
+
+#: patterns/footer-default.php:89
+msgid "Privacy Policy"
+msgstr "Chính Sách Bảo Mật"
+
+#: patterns/footer-default.php:93
+msgid "Blog Articles"
+msgstr "Bài Viết Blog"
+
+#: patterns/footer-default.php:97
+msgid "Brand Assets"
+msgstr "Tài Sản Thương Hiệu"
+
+#: patterns/footer-default.php:101
+msgid "Brand Guidelines"
+msgstr "Hướng Dẫn Thương Hiệu"
+
+#: patterns/footer-default.php:120
+msgid "Monday - Friday"
+msgstr "Thứ Hai - Thứ Sáu"
+
+#: patterns/footer-default.php:148
+msgid "Vacation Booking WordPress Theme "
+msgstr "Theme WordPress Đặt Tour Du Lịch "
+
+#: patterns/footer-default.php:148
+msgid " | Proudly powered By"
+msgstr " | Được hỗ trợ bởi"
+
+#: patterns/footer-default.php:148
+msgid "WordPress"
+msgstr "WordPress"
+
+#: patterns/header.php:39
+msgid "Bok Now"
+msgstr "Đặt Ngay"
+
+#: patterns/hidden-404.php:13
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-404.php:19
+msgctxt "Message to convey that a webpage could not be found"
+msgid "This page could not be found."
+msgstr "Không tìm thấy trang này."
+
+#: patterns/hidden-404.php:22
+#: patterns/hidden-no-results.php:14
+#: patterns/sidebar.php:12
+msgid "Search"
+msgstr "Tìm Kiếm"
+
+#: patterns/hidden-comments.php:13
+msgctxt "Title of comments section"
+msgid "Comments"
+msgstr "Bình Luận"
+
+#: patterns/hidden-no-results.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, không tìm thấy kết quả phù hợp với từ khóa tìm kiếm của bạn. Vui lòng thử lại với từ khóa khác."
+
+#: patterns/post-meta.php:28
+msgctxt "Verb to explain the publication status of a post"
+msgid "Posted"
+msgstr "Đã đăng"
+
+#: patterns/post-meta.php:36
+msgctxt "Preposition to show the relationship between the post and its categories"
+msgid "in"
+msgstr "trong"
+
+#: patterns/post-meta.php:48
+msgctxt "Preposition to show the relationship between the post and its author"
+msgid "by"
+msgstr "bởi"
+
+#: patterns/post-meta.php:64
+msgctxt "Label for a list of post tags"
+msgid "Tags:"
+msgstr "Thẻ:"
+
+#: patterns/related-post.php:10
+msgid "Related Posts :-"
+msgstr "Bài Viết Liên Quan :-"
+
+#: patterns/sidebar.php:22
+msgid "Archives"
+msgstr "Lưu Trữ"
+
+#: patterns/sidebar.php:32
+msgid "Popular Post"
+msgstr "Bài Viết Phổ Biến"
+
+#: patterns/sidebar.php:52
+msgid "Categories"
+msgstr "Danh Mục"
+
+#: patterns/sidebar.php:62
+msgid "Tags"
+msgstr "Thẻ"
+
+#: patterns/sidebar.php:72
+msgid "Follow Us On"
+msgstr "Theo Dõi Chúng Tôi Trên"
+
+#: patterns/tour.php:17
+msgid "Welcome To Tour Place"
+msgstr "Chào Mừng Đến Với Điểm Du Lịch"
+
+#: patterns/tour.php:21
+msgid "Most Favorite Tour Place"
+msgstr "Điểm Du Lịch Được Yêu Thích Nhất"
+
+#: patterns/tour.php:32
+#: patterns/tour.php:114
+#: patterns/tour.php:196
+#: patterns/tour.php:280
+#: patterns/tour.php:362
+#: patterns/tour.php:444
+msgid "Sale"
+msgstr "Giảm Giá"
+
+#: patterns/tour.php:36
+msgid "Canada, Gananoque Islands"
+msgstr "Canada, Quần Đảo Gananoque"
+
+#: patterns/tour.php:40
+#: patterns/tour.php:122
+#: patterns/tour.php:204
+#: patterns/tour.php:288
+#: patterns/tour.php:370
+#: patterns/tour.php:452
+msgid "820 berlin city fl."
+msgstr "820 Berlin City FL."
+
+#: patterns/tour.php:47
+#: patterns/tour.php:129
+#: patterns/tour.php:211
+#: patterns/tour.php:295
+#: patterns/tour.php:377
+#: patterns/tour.php:459
+msgid "04 People"
+msgstr "04 Người"
+
+#: patterns/tour.php:53
+#: patterns/tour.php:135
+#: patterns/tour.php:217
+#: patterns/tour.php:301
+#: patterns/tour.php:383
+#: patterns/tour.php:465
+msgid "05 Days"
+msgstr "05 Ngày"
+
+#: patterns/tour.php:59
+#: patterns/tour.php:141
+#: patterns/tour.php:223
+#: patterns/tour.php:307
+#: patterns/tour.php:389
+#: patterns/tour.php:471
+msgid "Hotel Name"
+msgstr "Tên Khách Sạn"
+
+#: patterns/tour.php:75
+#: patterns/tour.php:157
+#: patterns/tour.php:239
+#: patterns/tour.php:323
+#: patterns/tour.php:405
+#: patterns/tour.php:487
+msgid "Kelvin Shah"
+msgstr "Kelvin Shah"
+
+#: patterns/tour.php:79
+#: patterns/tour.php:161
+#: patterns/tour.php:243
+#: patterns/tour.php:327
+#: patterns/tour.php:409
+#: patterns/tour.php:491
+msgid "Property Owner"
+msgstr "Chủ Sở Hữu"
+
+#: patterns/tour.php:91
+#: patterns/tour.php:255
+#: patterns/tour.php:339
+#: patterns/tour.php:503
+msgid "Price"
+msgstr "Giá"
+
+#: patterns/tour.php:95
+#: patterns/tour.php:177
+#: patterns/tour.php:259
+#: patterns/tour.php:343
+#: patterns/tour.php:425
+#: patterns/tour.php:507
+msgid "$150.000"
+msgstr "$150.000"
+
+#: patterns/tour.php:118
+msgid "Japan on a Shoestring"
+msgstr "Nhật Bản Tiết Kiệm"
+
+#: patterns/tour.php:173
+msgid "Price "
+msgstr "Giá "
+
+#: patterns/tour.php:200
+msgid "United france Emirates Desert,"
+msgstr "Sa Mạc Emirates Pháp,"
+
+#: patterns/tour.php:284
+msgid "7 Days South – Central of tokyo"
+msgstr "7 Ngày Nam – Trung Tokyo"
+
+#: patterns/tour.php:366
+msgid "Surfers Private France Beach"
+msgstr "Bãi Biển Riêng Pháp Cho Lướt Sóng"
+
+#: patterns/tour.php:448
+msgid "Maldives Adventure Tour"
+msgstr "Tour Phiêu Lưu Maldives"
+
+#: tgm.php:10
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page With No Sidebar"
+msgstr "Trang Không Có Thanh Bên"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr "Bố Cục Lưới (Bài Viết Lưu Trữ)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Blog Page (Sidebar on Right)"
+msgstr "Trang Blog Đơn (Thanh Bên Phải)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Blog Page (Sidebar on Left)"
+msgstr "Trang Blog Đơn (Thanh Bên Trái)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Right)"
+msgstr "Trang Đơn (Thanh Bên Phải)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Left)"
+msgstr "Trang Đơn (Thanh Bên Trái)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Trống"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "404"
+msgstr "404"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Đầu Trang"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Chân Trang"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Bình Luận"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr "Thông Tin Bài Viết"
+
+#: 
+msgid "Read More"
+msgstr "Đọc Thêm"
+
+#: 
+msgid "Book Now"
+msgstr "Đặt Ngay"
+
+#: 
+msgid "View Details"
+msgstr "Xem Chi Tiết"
+
+#: 
+msgid "Add to Cart"
+msgstr "Thêm Vào Giỏ"
+
+#: 
+msgid "Checkout"
+msgstr "Thanh Toán"
+
+#: 
+msgid "My Account"
+msgstr "Tài Khoản Của Tôi"
+
+#: 
+msgid "Login"
+msgstr "Đăng Nhập"
+
+#: 
+msgid "Register"
+msgstr "Đăng Ký"
+
+#: 
+msgid "Logout"
+msgstr "Đăng Xuất"
+
+#: 
+msgid "Password"
+msgstr "Mật Khẩu"
+
+#: 
+msgid "Email"
+msgstr "Email"
+
+#: 
+msgid "Username"
+msgstr "Tên Đăng Nhập"
+
+#: 
+msgid "Submit"
+msgstr "Gửi"
+
+#: 
+msgid "Cancel"
+msgstr "Hủy"
+
+#: 
+msgid "Save"
+msgstr "Lưu"
+
+#: 
+msgid "Delete"
+msgstr "Xóa"
+
+#: 
+msgid "Edit"
+msgstr "Sửa"
+
+#: 
+msgid "Update"
+msgstr "Cập Nhật"
+
+#: 
+msgid "Previous"
+msgstr "Trước"
+
+#: 
+msgid "Next"
+msgstr "Tiếp Theo"
+
+#: 
+msgid "First"
+msgstr "Đầu Tiên"
+
+#: 
+msgid "Last"
+msgstr "Cuối Cùng"
+
+#: 
+msgid "Loading..."
+msgstr "Đang Tải..."
+
+#: 
+msgid "No results found"
+msgstr "Không tìm thấy kết quả"
+
+#: 
+msgid "Error"
+msgstr "Lỗi"
+
+#: 
+msgid "Success"
+msgstr "Thành Công"
+
+#: 
+msgid "Warning"
+msgstr "Cảnh Báo"
+
+#: 
+msgid "Info"
+msgstr "Thông Tin"
+
+#: 
+msgid "Close"
+msgstr "Đóng"
+
+#: 
+msgid "Open"
+msgstr "Mở"
+
+#: 
+msgid "View"
+msgstr "Xem"
+
+#: 
+msgid "Download"
+msgstr "Tải Xuống"
+
+#: 
+msgid "Upload"
+msgstr "Tải Lên"
+
+#: 
+msgid "Share"
+msgstr "Chia Sẻ"
+
+#: 
+msgid "Print"
+msgstr "In"
+
+#: 
+msgid "Copy"
+msgstr "Sao Chép"
+
+#: 
+msgid "Paste"
+msgstr "Dán"
+
+#: 
+msgid "Cut"
+msgstr "Cắt"
+
+#: 
+msgid "Select All"
+msgstr "Chọn Tất Cả"
+
+#: 
+msgid "Clear"
+msgstr "Xóa"
+
+#: 
+msgid "Reset"
+msgstr "Đặt Lại"
+
+#: 
+msgid "Confirm"
+msgstr "Xác Nhận"
+
+#: 
+msgid "Yes"
+msgstr "Có"
+
+#: 
+msgid "No"
+msgstr "Không"
+
+#: 
+msgid "OK"
+msgstr "OK"
+
+#: 
+msgid "Apply"
+msgstr "Áp Dụng"
+
+#: 
+msgid "Filter"
+msgstr "Lọc"
+
+#: 
+msgid "Sort"
+msgstr "Sắp Xếp"
+
+#: 
+msgid "All"
+msgstr "Tất Cả"
+
+#: 
+msgid "None"
+msgstr "Không Có"
+
+#: 
+msgid "More"
+msgstr "Thêm"
+
+#: 
+msgid "Less"
+msgstr "Ít Hơn"
+
+#: 
+msgid "Show"
+msgstr "Hiển Thị"
+
+#: 
+msgid "Hide"
+msgstr "Ẩn"
+
+#: 
+msgid "Expand"
+msgstr "Mở Rộng"
+
+#: 
+msgid "Collapse"
+msgstr "Thu Gọn"
+
+#: 
+msgid "Enable"
+msgstr "Bật"
+
+#: 
+msgid "Disable"
+msgstr "Tắt"
+
+#: 
+msgid "On"
+msgstr "Bật"
+
+#: 
+msgid "Off"
+msgstr "Tắt"
+
+#: 
+msgid "Active"
+msgstr "Hoạt Động"
+
+#: 
+msgid "Inactive"
+msgstr "Không Hoạt Động"
+
+#: 
+msgid "Pending"
+msgstr "Đang Chờ"
+
+#: 
+msgid "Completed"
+msgstr "Hoàn Thành"
+
+#: 
+msgid "Failed"
+msgstr "Thất Bại"
+
+#: 
+msgid "Processing"
+msgstr "Đang Xử Lý"
+
+#: 
+msgid "Approved"
+msgstr "Đã Duyệt"
+
+#: 
+msgid "Rejected"
+msgstr "Từ Chối"
+
+#: 
+msgid "Draft"
+msgstr "Bản Nháp"
+
+#: 
+msgid "Published"
+msgstr "Đã Xuất Bản"
+
+#: 
+msgid "Private"
+msgstr "Riêng Tư"
+
+#: 
+msgid "Public"
+msgstr "Công Khai"
+
+#: 
+msgid "Featured"
+msgstr "Nổi Bật"
+
+#: 
+msgid "Popular"
+msgstr "Phổ Biến"
+
+#: 
+msgid "Recent"
+msgstr "Gần Đây"
+
+#: 
+msgid "New"
+msgstr "Mới"
+
+#: 
+msgid "Hot"
+msgstr "Hot"
+
+#: 
+msgid "Best Seller"
+msgstr "Bán Chạy Nhất"
+
+#: 
+msgid "Top Rated"
+msgstr "Đánh Giá Cao Nhất"
+
+#: 
+msgid "Recommended"
+msgstr "Được Đề Xuất"
+
+#: 
+msgid "Special Offer"
+msgstr "Ưu Đãi Đặc Biệt"
+
+#: 
+msgid "Limited Time"
+msgstr "Thời Gian Có Hạn"
+
+#: 
+msgid "Free"
+msgstr "Miễn Phí"
+
+#: 
+msgid "Discount"
+msgstr "Giảm Giá"
+
+#: 
+msgid "Buy Now"
+msgstr "Mua Ngay"
+
+#: 
+msgid "Add to Wishlist"
+msgstr "Thêm Vào Yêu Thích"
+
+#: 
+msgid "Compare"
+msgstr "So Sánh"
+
+#: 
+msgid "Quick View"
+msgstr "Xem Nhanh"
+
+#: 
+msgid "In Stock"
+msgstr "Còn Hàng"
+
+#: 
+msgid "Out of Stock"
+msgstr "Hết Hàng"
+
+#: 
+msgid "Pre-order"
+msgstr "Đặt Trước"
+
+#: 
+msgid "Coming Soon"
+msgstr "Sắp Ra Mắt"
+
+#: 
+msgid "Unavailable"
+msgstr "Không Có Sẵn"
+
+#: 
+msgid "Available"
+msgstr "Có Sẵn"
+
+#: 
+msgid "Date"
+msgstr "Ngày"
+
+#: 
+msgid "Time"
+msgstr "Thời Gian"
+
+#: 
+msgid "Location"
+msgstr "Địa Điểm"
+
+#: 
+msgid "Address"
+msgstr "Địa Chỉ"
+
+#: 
+msgid "Phone"
+msgstr "Điện Thoại"
+
+#: 
+msgid "Fax"
+msgstr "Fax"
+
+#: 
+msgid "Website"
+msgstr "Website"
+
+#: 
+msgid "Name"
+msgstr "Tên"
+
+#: 
+msgid "First Name"
+msgstr "Tên"
+
+#: 
+msgid "Last Name"
+msgstr "Họ"
+
+#: 
+msgid "Full Name"
+msgstr "Họ và Tên"
+
+#: 
+msgid "Message"
+msgstr "Tin Nhắn"
+
+#: 
+msgid "Subject"
+msgstr "Chủ Đề"
+
+#: 
+msgid "Description"
+msgstr "Mô Tả"
+
+#: 
+msgid "Details"
+msgstr "Chi Tiết"
+
+#: 
+msgid "Summary"
+msgstr "Tóm Tắt"
+
+#: 
+msgid "Total"
+msgstr "Tổng Cộng"
+
+#: 
+msgid "Subtotal"
+msgstr "Tạm Tính"
+
+#: 
+msgid "Tax"
+msgstr "Thuế"
+
+#: 
+msgid "Shipping"
+msgstr "Vận Chuyển"
+
+#: 
+msgid "Grand Total"
+msgstr "Tổng Cộng"
+
+#: 
+msgid "Order"
+msgstr "Đơn Hàng"
+
+#: 
+msgid "Order ID"
+msgstr "Mã Đơn Hàng"
+
+#: 
+msgid "Order Date"
+msgstr "Ngày Đặt Hàng"
+
+#: 
+msgid "Order Status"
+msgstr "Trạng Thái Đơn Hàng"
+
+#: 
+msgid "Payment"
+msgstr "Thanh Toán"
+
+#: 
+msgid "Payment Method"
+msgstr "Phương Thức Thanh Toán"
+
+#: 
+msgid "Credit Card"
+msgstr "Thẻ Tín Dụng"
+
+#: 
+msgid "Bank Transfer"
+msgstr "Chuyển Khoản Ngân Hàng"
+
+#: 
+msgid "Cash on Delivery"
+msgstr "Thanh Toán Khi Nhận Hàng"
+
+#: 
+msgid "PayPal"
+msgstr "PayPal"
+
+#: 
+msgid "Continue Shopping"
+msgstr "Tiếp Tục Mua Sắm"
+
+#: 
+msgid "Proceed to Checkout"
+msgstr "Tiến Hành Thanh Toán"
+
+#: 
+msgid "Place Order"
+msgstr "Đặt Hàng"
+
+#: 
+msgid "Thank you for your order"
+msgstr "Cảm ơn bạn đã đặt hàng"
+
+#: 
+msgid "Your order has been received"
+msgstr "Đơn hàng của bạn đã được nhận"
+
+#: 
+msgid "Track Order"
+msgstr "Theo Dõi Đơn Hàng"
+
+#: 
+msgid "Return Policy"
+msgstr "Chính Sách Đổi Trả"
+
+#: 
+msgid "FAQ"
+msgstr "Câu Hỏi Thường Gặp"
+
+#: 
+msgid "Help"
+msgstr "Trợ Giúp"
+
+#: 
+msgid "Support"
+msgstr "Hỗ Trợ"
+
+#: 
+msgid "Live Chat"
+msgstr "Chat Trực Tuyến"
+
+#: 
+msgid "Call Us"
+msgstr "Gọi Cho Chúng Tôi"
+
+#: 
+msgid "Send Email"
+msgstr "Gửi Email"
+
+#: 
+msgid "Newsletter"
+msgstr "Bản Tin"
+
+#: 
+msgid "Subscribe"
+msgstr "Đăng Ký"
+
+#: 
+msgid "Unsubscribe"
+msgstr "Hủy Đăng Ký"
+
+#: 
+msgid "Enter your email"
+msgstr "Nhập email của bạn"
+
+#: 
+msgid "Stay updated with our latest offers"
+msgstr "Cập nhật những ưu đãi mới nhất từ chúng tôi"
+
+#: 
+msgid "Social Media"
+msgstr "Mạng Xã Hội"
+
+#: 
+msgid "Follow Us"
+msgstr "Theo Dõi Chúng Tôi"
+
+#: 
+msgid "Facebook"
+msgstr "Facebook"
+
+#: 
+msgid "Twitter"
+msgstr "Twitter"
+
+#: 
+msgid "Instagram"
+msgstr "Instagram"
+
+#: 
+msgid "YouTube"
+msgstr "YouTube"
+
+#: 
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: 
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: 
+msgid "TikTok"
+msgstr "TikTok"
+
+#: 
+msgid "Copyright"
+msgstr "Bản Quyền"
+
+#: 
+msgid "All Rights Reserved"
+msgstr "Đã Đăng Ký Bản Quyền"
+
+#: 
+msgid "Terms of Service"
+msgstr "Điều Khoản Dịch Vụ"
+
+#: 
+msgid "Cookie Policy"
+msgstr "Chính Sách Cookie"
+
+#: 
+msgid "Sitemap"
+msgstr "Sơ Đồ Trang"
+
+#: 
+msgid "Accessibility"
+msgstr "Khả Năng Truy Cập"
+
+#: 
+msgid "Language"
+msgstr "Ngôn Ngữ"
+
+#: 
+msgid "Currency"
+msgstr "Tiền Tệ"
+
+#: 
+msgid "Select Language"
+msgstr "Chọn Ngôn Ngữ"
+
+#: 
+msgid "Select Currency"
+msgstr "Chọn Tiền Tệ"
+
+#: 
+msgid "English"
+msgstr "Tiếng Anh"
+
+#: 
+msgid "Vietnamese"
+msgstr "Tiếng Việt"
+
+#: 
+msgid "USD"
+msgstr "USD"
+
+#: 
+msgid "VND"
+msgstr "VND"
+
+#: 
+msgid "EUR"
+msgstr "EUR"
+
+#: 
+msgid "GBP"
+msgstr "GBP"
+
+#: 
+msgid "Tour"
+msgstr "Tour"
+
+#: 
+msgid "Tours"
+msgstr "Các Tour"
+
+#: 
+msgid "Hotel"
+msgstr "Khách Sạn"
+
+#: 
+msgid "Hotels"
+msgstr "Các Khách Sạn"
+
+#: 
+msgid "Flight"
+msgstr "Chuyến Bay"
+
+#: 
+msgid "Flights"
+msgstr "Các Chuyến Bay"
+
+#: 
+msgid "Car Rental"
+msgstr "Thuê Xe"
+
+#: 
+msgid "Activity"
+msgstr "Hoạt Động"
+
+#: 
+msgid "Activities"
+msgstr "Các Hoạt Động"
+
+#: 
+msgid "Package"
+msgstr "Gói"
+
+#: 
+msgid "Packages"
+msgstr "Các Gói"
+
+#: 
+msgid "Destination"
+msgstr "Điểm Đến"
+
+#: 
+msgid "Duration"
+msgstr "Thời Lượng"
+
+#: 
+msgid "Group Size"
+msgstr "Quy Mô Nhóm"
+
+#: 
+msgid "Departure"
+msgstr "Khởi Hành"
+
+#: 
+msgid "Return"
+msgstr "Quay Về"
+
+#: 
+msgid "Guests"
+msgstr "Khách"
+
+#: 
+msgid "Adults"
+msgstr "Người Lớn"
+
+#: 
+msgid "Children"
+msgstr "Trẻ Em"
+
+#: 
+msgid "Infants"
+msgstr "Em Bé"
+
+#: 
+msgid "Rooms"
+msgstr "Phòng"
+
+#: 
+msgid "Check-in"
+msgstr "Nhận Phòng"
+
+#: 
+msgid "Check-out"
+msgstr "Trả Phòng"
+
+#: 
+msgid "Nights"
+msgstr "Đêm"
+
+#: 
+msgid "Days"
+msgstr "Ngày"
+
+#: 
+msgid "Hours"
+msgstr "Giờ"
+
+#: 
+msgid "Minutes"
+msgstr "Phút"
+
+#: 
+msgid "Per Person"
+msgstr "Mỗi Người"
+
+#: 
+msgid "Per Night"
+msgstr "Mỗi Đêm"
+
+#: 
+msgid "Per Day"
+msgstr "Mỗi Ngày"
+
+#: 
+msgid "From"
+msgstr "Từ"
+
+#: 
+msgid "To"
+msgstr "Đến"
+
+#: 
+msgid "Starting From"
+msgstr "Bắt Đầu Từ"
+
+#: 
+msgid "Up To"
+msgstr "Lên Đến"
+
+#: 
+msgid "Review"
+msgstr "Đánh Giá"
+
+#: 
+msgid "Reviews"
+msgstr "Các Đánh Giá"
+
+#: 
+msgid "Rating"
+msgstr "Xếp Hạng"
+
+#: 
+msgid "Ratings"
+msgstr "Các Xếp Hạng"
+
+#: 
+msgid "Star"
+msgstr "Sao"
+
+#: 
+msgid "Stars"
+msgstr "Sao"
+
+#: 
+msgid "Excellent"
+msgstr "Xuất Sắc"
+
+#: 
+msgid "Very Good"
+msgstr "Rất Tốt"
+
+#: 
+msgid "Good"
+msgstr "Tốt"
+
+#: 
+msgid "Average"
+msgstr "Trung Bình"
+
+#: 
+msgid "Poor"
+msgstr "Kém"
+
+#: 
+msgid "Write a Review"
+msgstr "Viết Đánh Giá"
+
+#: 
+msgid "Your Rating"
+msgstr "Đánh Giá Của Bạn"
+
+#: 
+msgid "Your Review"
+msgstr "Nhận Xét Của Bạn"
+
+#: 
+msgid "Submit Review"
+msgstr "Gửi Đánh Giá"
+
+#: 
+msgid "Itinerary"
+msgstr "Lịch Trình"
+
+#: 
+msgid "Included"
+msgstr "Bao Gồm"
+
+#: 
+msgid "Excluded"
+msgstr "Không Bao Gồm"
+
+#: 
+msgid "What's Included"
+msgstr "Bao Gồm Những Gì"
+
+#: 
+msgid "What's Excluded"
+msgstr "Không Bao Gồm"
+
+#: 
+msgid "Highlights"
+msgstr "Điểm Nổi Bật"
+
+#: 
+msgid "Overview"
+msgstr "Tổng Quan"
+
+#: 
+msgid "Map"
+msgstr "Bản Đồ"
+
+#: 
+msgid "Location Map"
+msgstr "Bản Đồ Địa Điểm"
+
+#: 
+msgid "Get Directions"
+msgstr "Chỉ Đường"
+
+#: 
+msgid "Amenities"
+msgstr "Tiện Nghi"
+
+#: 
+msgid "Facilities"
+msgstr "Cơ Sở Vật Chất"
+
+#: 
+msgid "Room Types"
+msgstr "Loại Phòng"
+
+#: 
+msgid "Room Amenities"
+msgstr "Tiện Nghi Phòng"
+
+#: 
+msgid "Hotel Policies"
+msgstr "Chính Sách Khách Sạn"
+
+#: 
+msgid "Cancellation Policy"
+msgstr "Chính Sách Hủy"
+
+#: 
+msgid "Free Cancellation"
+msgstr "Hủy Miễn Phí"
+
+#: 
+msgid "Non-refundable"
+msgstr "Không Hoàn Tiền"
+
+#: 
+msgid "Refundable"
+msgstr "Có Thể Hoàn Tiền"
+
+#: 
+msgid "Instant Confirmation"
+msgstr "Xác Nhận Ngay Lập Tức"
+
+#: 
+msgid "Best Price Guarantee"
+msgstr "Đảm Bảo Giá Tốt Nhất"
+
+#: 
+msgid "24/7 Customer Support"
+msgstr "Hỗ Trợ Khách Hàng 24/7"
+
+#: 
+msgid "Secure Payment"
+msgstr "Thanh Toán An Toàn"
+
+#: 
+msgid "Verified"
+msgstr "Đã Xác Minh"
+
+#: 
+msgid "Trusted"
+msgstr "Đáng Tin Cậy"
+
+#: 
+msgid "Official"
+msgstr "Chính Thức"
+
+#: 
+msgid "Certified"
+msgstr "Được Chứng Nhận"
+
+#: 
+msgid "Award Winning"
+msgstr "Đạt Giải Thưởng"
+
+#: 
+msgid "Years of Experience"
+msgstr "Năm Kinh Nghiệm"
+
+#: 
+msgid "Happy Customers"
+msgstr "Khách Hàng Hài Lòng"
+
+#: 
+msgid "Satisfied Travelers"
+msgstr "Du Khách Hài Lòng"
+
+#: 
+msgid "Tour Guides"
+msgstr "Hướng Dẫn Viên Du Lịch"
+
+#: 
+msgid "Our Team"
+msgstr "Đội Ngũ Của Chúng Tôi"
+
+#: 
+msgid "Meet Our Experts"
+msgstr "Gặp Gỡ Các Chuyên Gia"
+
+#: 
+msgid "Testimonials"
+msgstr "Lời Chứng Thực"
+
+#: 
+msgid "What Our Customers Say"
+msgstr "Khách Hàng Nói Gì"
+
+#: 
+msgid "Customer Reviews"
+msgstr "Đánh Giá Khách Hàng"
+
+#: 
+msgid "Success Stories"
+msgstr "Câu Chuyện Thành Công"
+
+#: 
+msgid "Why Choose Us"
+msgstr "Tại Sao Chọn Chúng Tôi"
+
+#: 
+msgid "Our Advantages"
+msgstr "Lợi Thế Của Chúng Tôi"
+
+#: 
+msgid "What Makes Us Different"
+msgstr "Điều Gì Khiến Chúng Tôi Khác Biệt"
+
+#: 
+msgid "Our Services"
+msgstr "Dịch Vụ Của Chúng Tôi"
+
+#: 
+msgid "What We Offer"
+msgstr "Chúng Tôi Cung Cấp"
+
+#: 
+msgid "How It Works"
+msgstr "Cách Thức Hoạt Động"
+
+#: 
+msgid "Simple Steps"
+msgstr "Các Bước Đơn Giản"
+
+#: 
+msgid "Step"
+msgstr "Bước"
+
+#: 
+msgid "Choose Destination"
+msgstr "Chọn Điểm Đến"
+
+#: 
+msgid "Select Date"
+msgstr "Chọn Ngày"
+
+#: 
+msgid "Book and Pay"
+msgstr "Đặt và Thanh Toán"
+
+#: 
+msgid "Enjoy Your Trip"
+msgstr "Tận Hưởng Chuyến Đi"
+
+#: 
+msgid "Plan Your Trip"
+msgstr "Lên Kế Hoạch Chuyến Đi"
+
+#: 
+msgid "Start Planning"
+msgstr "Bắt Đầu Lên Kế Hoạch"
+
+#: 
+msgid "Get a Quote"
+msgstr "Nhận Báo Giá"
+
+#: 
+msgid "Request Quote"
+msgstr "Yêu Cầu Báo Giá"
+
+#: 
+msgid "Custom Tour"
+msgstr "Tour Tùy Chỉnh"
+
+#: 
+msgid "Tailor Made"
+msgstr "Thiết Kế Riêng"
+
+#: 
+msgid "Private Tour"
+msgstr "Tour Riêng"
+
+#: 
+msgid "Group Tour"
+msgstr "Tour Nhóm"
+
+#: 
+msgid "Solo Travel"
+msgstr "Du Lịch Một Mình"
+
+#: 
+msgid "Family Tour"
+msgstr "Tour Gia Đình"
+
+#: 
+msgid "Honeymoon"
+msgstr "Tuần Trăng Mật"
+
+#: 
+msgid "Adventure"
+msgstr "Phiêu Lưu"
+
+#: 
+msgid "Cultural"
+msgstr "Văn Hóa"
+
+#: 
+msgid "Beach"
+msgstr "Biển"
+
+#: 
+msgid "Mountain"
+msgstr "Núi"
+
+#: 
+msgid "City"
+msgstr "Thành Phố"
+
+#: 
+msgid "Countryside"
+msgstr "Nông Thôn"
+
+#: 
+msgid "Island"
+msgstr "Đảo"
+
+#: 
+msgid "Desert"
+msgstr "Sa Mạc"
+
+#: 
+msgid "Forest"
+msgstr "Rừng"
+
+#: 
+msgid "Lake"
+msgstr "Hồ"
+
+#: 
+msgid "River"
+msgstr "Sông"
+
+#: 
+msgid "Waterfall"
+msgstr "Thác Nước"
+
+#: 
+msgid "Historical"
+msgstr "Lịch Sử"
+
+#: 
+msgid "Religious"
+msgstr "Tôn Giáo"
+
+#: 
+msgid "Eco Tourism"
+msgstr "Du Lịch Sinh Thái"
+
+#: 
+msgid "Wildlife"
+msgstr "Động Vật Hoang Dã"
+
+#: 
+msgid "Safari"
+msgstr "Safari"
+
+#: 
+msgid "Cruise"
+msgstr "Du Thuyền"
+
+#: 
+msgid "Hiking"
+msgstr "Đi Bộ Đường Dài"
+
+#: 
+msgid "Trekking"
+msgstr "Trekking"
+
+#: 
+msgid "Camping"
+msgstr "Cắm Trại"
+
+#: 
+msgid "Snorkeling"
+msgstr "Lặn Biển"
+
+#: 
+msgid "Diving"
+msgstr "Lặn"
+
+#: 
+msgid "Surfing"
+msgstr "Lướt Sóng"
+
+#: 
+msgid "Skiing"
+msgstr "Trượt Tuyết"
+
+#: 
+msgid "Cycling"
+msgstr "Đạp Xe"
+
+#: 
+msgid "Photography"
+msgstr "Nhiếp Ảnh"
+
+#: 
+msgid "Food Tour"
+msgstr "Tour Ẩm Thực"
+
+#: 
+msgid "Wine Tour"
+msgstr "Tour Rượu Vang"
+
+#: 
+msgid "Shopping Tour"
+msgstr "Tour Mua Sắm"
+
+#: 
+msgid "City Tour"
+msgstr "Tour Thành Phố"
+
+#: 
+msgid "Day Trip"
+msgstr "Chuyến Đi Trong Ngày"
+
+#: 
+msgid "Multi-Day Tour"
+msgstr "Tour Nhiều Ngày"
+
+#: 
+msgid "Half Day"
+msgstr "Nửa Ngày"
+
+#: 
+msgid "Full Day"
+msgstr "Cả Ngày"
+
+#: 
+msgid "Weekend"
+msgstr "Cuối Tuần"
+
+#: 
+msgid "Weekly"
+msgstr "Hàng Tuần"
+
+#: 
+msgid "Monthly"
+msgstr "Hàng Tháng"
+
+#: 
+msgid "Seasonal"
+msgstr "Theo Mùa"
+
+#: 
+msgid "Year Round"
+msgstr "Quanh Năm"
+
+#: 
+msgid "Spring"
+msgstr "Mùa Xuân"
+
+#: 
+msgid "Summer"
+msgstr "Mùa Hè"
+
+#: 
+msgid "Autumn"
+msgstr "Mùa Thu"
+
+#: 
+msgid "Fall"
+msgstr "Mùa Thu"
+
+#: 
+msgid "Winter"
+msgstr "Mùa Đông"
+
+#: 
+msgid "Peak Season"
+msgstr "Mùa Cao Điểm"
+
+#: 
+msgid "Off Season"
+msgstr "Mùa Thấp Điểm"
+
+#: 
+msgid "Low Season"
+msgstr "Mùa Thấp Điểm"
+
+#: 
+msgid "High Season"
+msgstr "Mùa Cao Điểm"
+
+#: 
+msgid "Shoulder Season"
+msgstr "Mùa Chuyển Tiếp"
+
+#: 
+msgid "Best Time to Visit"
+msgstr "Thời Điểm Tốt Nhất Để Ghé Thăm"
+
+#: 
+msgid "Weather"
+msgstr "Thời Tiết"
+
+#: 
+msgid "Climate"
+msgstr "Khí Hậu"
+
+#: 
+msgid "Temperature"
+msgstr "Nhiệt Độ"
+
+#: 
+msgid "Sunny"
+msgstr "Nắng"
+
+#: 
+msgid "Cloudy"
+msgstr "Nhiều Mây"
+
+#: 
+msgid "Rainy"
+msgstr "Mưa"
+
+#: 
+msgid "Snowy"
+msgstr "Tuyết"
+
+#: 
+msgid "Windy"
+msgstr "Gió"
+
+#: 
+msgid "Warm"
+msgstr "Ấm"
+
+#: 
+msgid "Cool"
+msgstr "Mát"
+
+#: 
+msgid "Cold"
+msgstr "Lạnh"
+
+#: 
+msgid "Tropical"
+msgstr "Nhiệt Đới"
+
+#: 
+msgid "Mediterranean"
+msgstr "Địa Trung Hải"
+
+#: 
+msgid "Continental"
+msgstr "Lục Địa"
+
+#: 
+msgid "Polar"
+msgstr "Cực"
+
+#: 
+msgid "Visa"
+msgstr "Visa"
+
+#: 
+msgid "Passport"
+msgstr "Hộ Chiếu"
+
+#: 
+msgid "Travel Insurance"
+msgstr "Bảo Hiểm Du Lịch"
+
+#: 
+msgid "Health Requirements"
+msgstr "Yêu Cầu Sức Khỏe"
+
+#: 
+msgid "Vaccination"
+msgstr "Tiêm Chủng"
+
+#: 
+msgid "Local Currency"
+msgstr "Tiền Tệ Địa Phương"
+
+#: 
+msgid "Language Spoken"
+msgstr "Ngôn Ngữ Sử Dụng"
+
+#: 
+msgid "Time Zone"
+msgstr "Múi Giờ"
+
+#: 
+msgid "Electricity"
+msgstr "Điện"
+
+#: 
+msgid "Emergency"
+msgstr "Khẩn Cấp"
+
+#: 
+msgid "Safety"
+msgstr "An Toàn"
+
+#: 
+msgid "Travel Tips"
+msgstr "Mẹo Du Lịch"
+
+#: 
+msgid "Packing List"
+msgstr "Danh Sách Đồ Đạc"
+
+#: 
+msgid "What to Bring"
+msgstr "Mang Theo Những Gì"
+
+#: 
+msgid "What to Wear"
+msgstr "Mặc Gì"
+
+#: 
+msgid "Dress Code"
+msgstr "Quy Định Trang Phục"
+
+#: 
+msgid "Casual"
+msgstr "Thoải Mái"
+
+#: 
+msgid "Formal"
+msgstr "Trang Trọng"
+
+#: 
+msgid "Smart Casual"
+msgstr "Lịch Sự"
+
+#: 
+msgid "Comfortable"
+msgstr "Thoải Mái"
+
+#: 
+msgid "Meet and Greet"
+msgstr "Đón Tiếp"
+
+#: 
+msgid "Airport Transfer"
+msgstr "Đưa Đón Sân Bay"
+
+#: 
+msgid "Hotel Pickup"
+msgstr "Đón Tại Khách Sạn"
+
+#: 
+msgid "Meeting Point"
+msgstr "Điểm Gặp Mặt"
+
+#: 
+msgid "Departure Point"
+msgstr "Điểm Khởi Hành"
+
+#: 
+msgid "Return Point"
+msgstr "Điểm Quay Về"
+
+#: 
+msgid "Start Time"
+msgstr "Thời Gian Bắt Đầu"
+
+#: 
+msgid "End Time"
+msgstr "Thời Gian Kết Thúc"
+
+#: 
+msgid "Departure Time"
+msgstr "Thời Gian Khởi Hành"
+
+#: 
+msgid "Arrival Time"
+msgstr "Thời Gian Đến"
+
+#: 
+msgid "Pick Up"
+msgstr "Đón"
+
+#: 
+msgid "Drop Off"
+msgstr "Trả"
+
+#: 
+msgid "Transportation"
+msgstr "Phương Tiện"
+
+#: 
+msgid "By Air"
+msgstr "Bằng Máy Bay"
+
+#: 
+msgid "By Land"
+msgstr "Bằng Đường Bộ"
+
+#: 
+msgid "By Sea"
+msgstr "Bằng Đường Biển"
+
+#: 
+msgid "By Train"
+msgstr "Bằng Tàu"
+
+#: 
+msgid "By Bus"
+msgstr "Bằng Xe Buýt"
+
+#: 
+msgid "By Car"
+msgstr "Bằng Xe Ô Tô"
+
+#: 
+msgid "By Boat"
+msgstr "Bằng Thuyền"
+
+#: 
+msgid "Walking"
+msgstr "Đi Bộ"
+
+#: 
+msgid "Meal"
+msgstr "Bữa Ăn"
+
+#: 
+msgid "Meals"
+msgstr "Các Bữa Ăn"
+
+#: 
+msgid "Breakfast"
+msgstr "Bữa Sáng"
+
+#: 
+msgid "Lunch"
+msgstr "Bữa Trưa"
+
+#: 
+msgid "Dinner"
+msgstr "Bữa Tối"
+
+#: 
+msgid "Snack"
+msgstr "Đồ Ăn Nhẹ"
+
+#: 
+msgid "Beverage"
+msgstr "Đồ Uống"
+
+#: 
+msgid "Drink"
+msgstr "Thức Uống"
+
+#: 
+msgid "Alcoholic"
+msgstr "Có Cồn"
+
+#: 
+msgid "Non-alcoholic"
+msgstr "Không Cồn"
+
+#: 
+msgid "Vegetarian"
+msgstr "Chay"
+
+#: 
+msgid "Vegan"
+msgstr "Thuần Chay"
+
+#: 
+msgid "Halal"
+msgstr "Halal"
+
+#: 
+msgid "Kosher"
+msgstr "Kosher"
+
+#: 
+msgid "Gluten Free"
+msgstr "Không Gluten"
+
+#: 
+msgid "Dietary Requirements"
+msgstr "Yêu Cầu Ăn Kiêng"
+
+#: 
+msgid "Special Requests"
+msgstr "Yêu Cầu Đặc Biệt"
+
+#: 
+msgid "Additional Notes"
+msgstr "Ghi Chú Thêm"
+
+#: 
+msgid "Comments"
+msgstr "Nhận Xét"
+
+#: 
+msgid "Questions"
+msgstr "Câu Hỏi"
+
+#: 
+msgid "Answers"
+msgstr "Câu Trả Lời"
+
+#: 
+msgid "Ask a Question"
+msgstr "Đặt Câu Hỏi"
+
+#: 
+msgid "Q&A"
+msgstr "Hỏi & Đáp"
+
+#: 
+msgid "Frequently Asked Questions"
+msgstr "Câu Hỏi Thường Gặp"
+
+#: 
+msgid "Do not hesitate to give us a call"
+msgstr "Đừng ngần ngại gọi cho chúng tôi"
+
+#: 
+msgid "We are an expert team and we are happy to talk to you"
+msgstr "Chúng tôi là đội ngũ chuyên gia và sẵn sàng hỗ trợ bạn"
+
+#: 
+msgid "Enjoy a taste of Las Vegas glitz at the mind-bending magic show"
+msgstr "Trải nghiệm sự hào nhoáng Las Vegas với show ảo thuật đỉnh cao"
+
+#: 
+msgid "Watch as Gerry McCambridge performs comedy and magic"
+msgstr "Xem Gerry McCambridge biểu diễn hài kịch và ảo thuật"
