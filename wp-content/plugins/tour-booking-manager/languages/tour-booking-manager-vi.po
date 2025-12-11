@@ -3493,7 +3493,7 @@ msgstr ""
 
 #: admin/settings/tour/TTBM_Settings.php:206
 msgid "Here tour activities can be added type tour type beach, hiking etc."
-msgstr ""
+msgstr "Tại đây có thể thêm các hoạt động tour như loại hình tour biển, đi bộ đường dài, v.v."
 "Tại đây các hoạt động tour có thể được thêm vào, ví dụ loại hình bãi biển, "
 "leo núi, v.v."
 
@@ -3509,7 +3509,7 @@ msgstr "Tại đây bạn có thể thêm hình ảnh cho tour."
 
 #: admin/settings/tour/TTBM_Settings.php:197
 msgid "Here you can set tour duration, night, price, people count and age etc."
-msgstr ""
+msgstr "Tại đây bạn có thể thiết lập thời gian tour, số đêm, giá, số người và độ tuổi, v.v."
 "Tại đây bạn có thể thiết lập thời lượng tour, số đêm, giá, số lượng người và "
 "độ tuổi v.v."
 
@@ -3808,7 +3808,7 @@ msgstr "Nếu bạn muốn tạo một địa điểm mới, hãy nhấp vào n�
 
 #: admin/settings/tour/TTBM_Settings.php:126
 msgid "If you would like to hide them, you can do so by switching the option."
-msgstr ""
+msgstr "Nếu bạn muốn ẩn chúng, bạn có thể làm điều đó bằng cách chuyển đổi tùy chọn."
 "Nếu bạn muốn ẩn chúng, bạn có thể làm như vậy bằng cách chuyển đổi tùy chọn."
 
 #: admin/settings/TTBM_Select_Icon_image.php:135
@@ -5175,7 +5175,7 @@ msgstr "Vui lòng thêm khung giờ vé Chủ Nhật"
 
 #: admin/settings/tour/TTBM_Settings.php:136
 msgid "Please add the new location to the location list when creating a tour."
-msgstr ""
+msgstr "Vui lòng thêm địa điểm mới vào danh sách địa điểm khi tạo tour."
 "Vui lòng thêm địa điểm mới vào danh sách địa điểm khi tạo tour."
 
 #: admin/settings/tour/TTBM_Settings_Dates.php:430
@@ -5260,7 +5260,7 @@ msgstr "Vui lòng nhập mã API Google Map đang hoạt động của bạn"
 
 #: admin/settings/tour/TTBM_Settings.php:144
 msgid "Please find the detailed timeline for you tour as day 1, day 2 etc."
-msgstr ""
+msgstr "Vui lòng xem lịch trình chi tiết cho tour của bạn như ngày 1, ngày 2, v.v."
 "Vui lòng tìm lịch trình chi tiết cho tour của bạn như ngày 1, ngày 2 v.v."
 
 #: inc/TTBM_Custom_Layout.php:220
@@ -5367,7 +5367,7 @@ msgstr "Vui lòng chọn tên địa điểm bạn muốn tạo tour."
 
 #: admin/TTBM_Settings_Global.php:98
 msgid "Please Select when and which order status Seat Will be Booked/Reduced."
-msgstr ""
+msgstr "Vui lòng chọn thời điểm và trạng thái đơn hàng nào để đặt/giảm số ghế."
 "Vui lòng chọn trạng thái đơn hàng nào thì Chỗ sẽ được Đặt/Giảm số lượng."
 
 #: admin/settings/tour/TTBM_Settings.php:139
@@ -5750,7 +5750,7 @@ msgstr "replyd"
 
 #: inc/TTBM_Details_Layout.php:90
 msgid "Reserve Now and Pay Later - Secure your spot while staying flexible"
-msgstr ""
+msgstr "Đặt chỗ ngay và Thanh toán sau - Giữ chỗ trong khi vẫn linh hoạt"
 "Đặt chỗ ngay và thanh toán sau - Giữ chỗ của bạn trong khi vẫn linh hoạt"
 
 #: admin/settings/hotel/TTBM_Settings_Hotel_Price.php:41
@@ -6964,7 +6964,7 @@ msgstr "nhiệt kế 3/4"
 
 #: admin/settings/tour/TTBM_Settings_Dates.php:394
 msgid "These tour time slots will apply to all dates unless overridden"
-msgstr ""
+msgstr "Các khung giờ tour này sẽ áp dụng cho tất cả các ngày trừ khi bị ghi đè"
 "Các khung giờ tour này sẽ áp dụng cho tất cả các ngày trừ khi được ghi đè"
 
 #: inc/TTBM_Global_Function.php:596 inc/TTBM_Global_Function.php:1119
@@ -7101,7 +7101,7 @@ msgstr "Để thêm hướng dẫn viên, chỉ cần chọn từ danh sách bê
 
 #: admin/settings/tour/TTBM_Settings.php:191
 msgid "To change tour guide description style, please select style."
-msgstr ""
+msgstr "Để thay đổi kiểu mô tả hướng dẫn viên, vui lòng chọn kiểu."
 "Để thay đổi kiểu hiển thị mô tả hướng dẫn viên, vui lòng chọn kiểu dáng."
 
 #: admin/settings/tour/TTBM_Settings.php:190
@@ -7141,7 +7141,7 @@ msgstr "Để hiển thị Vị trí Tour trên bản đồ hãy bật nó lên.
 
 #: admin/settings/tour/TTBM_Settings_Location.php:270
 msgid "To use google map, you have to add google map API key from"
-msgstr ""
+msgstr "Để sử dụng google map, bạn phải thêm khóa API google map từ"
 "Để sử dụng Google map, bạn phải thêm khóa API Google map lấy từ đường dẫn sau"
 
 #: admin/TTBM_Get_Enquiry.php:225
