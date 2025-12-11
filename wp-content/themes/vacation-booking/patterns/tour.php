@@ -418,7 +418,7 @@
 <div class="wp-block-group information-column" style="padding-right:0;padding-left:0"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#888888"}}},"typography":{"lineHeight":"1.1","fontStyle":"normal","fontWeight":"500","fontSize":"14px"},"color":{"text":"#888888"}},"fontFamily":"fira-sans"} -->
-<p class="has-text-color has-link-color has-fira-sans-font-family" style="color:#888888;font-size:14px;font-style:normal;font-weight:500;line-height:1.1"><?php esc_html_e('Price ','vacation-booking'); ?></p>
+<p class="has-text-color has-link-color has-fira-sans-font-family" style="color:#888888;font-size:14px;font-style:normal;font-weight:500;line-height:1.1"><?php esc_html_e('Price','vacation-booking'); ?> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"right","style":{"elements":{"link":{"color":{"text":"#191919"}}},"typography":{"lineHeight":"2","fontStyle":"normal","fontWeight":"500","fontSize":"17px"},"color":{"text":"#191919"},"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontFamily":"fira-sans"} -->

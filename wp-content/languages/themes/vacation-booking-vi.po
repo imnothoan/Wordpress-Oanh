@@ -24,10 +24,6 @@ msgid "Price"
 msgstr "Giá"
 
 #: patterns/tour.php
-msgid "Price "
-msgstr "Giá "
-
-#: patterns/tour.php
 msgid "Sale"
 msgstr "Giảm giá"
 
